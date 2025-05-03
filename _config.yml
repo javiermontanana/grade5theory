@@ -93,7 +93,19 @@ collections:
     name: 23) An Introduction to Post-Tonal Analysis ssssssssssss
   aa-intervals:
     output: true
-    name: 24) intervals
+    name: 24) Intervals
+  ab-scales:
+    output: true
+    name: 25) Scales and Keys
+  ac-transposing:
+    output: true
+    name: 26) Transposing
+  ad-chromatic-and-enharmonic:
+    output: true
+    name: 27) Chromatic and Enharmonic
+  ae-chords:
+    output: true
+    name: 28) Chords
 #  final-project:
 #    output: true
 #    name: Final Project Notes and Discussion
