@@ -7,12 +7,16 @@ abc: true
 
 ## other methods 
 
-There are other methods for identifying intervals that don't always involve boiling them down to the notes of the C major scale. 
+We have now learnt to identify any interval up to an octave. 
+We have done this by using the C major scale as a reference. 
+If we find an interval with sharps or flats, we simplify it down to one wiht notes from the C major scale, and then we add the sharps or flats. 
 
-What all these methods have in common is that when we see an interval with too many sharps or flats for us to identify it as is, we will get rid of some to simplify it into an interval we can work out and then we will add the sharps and flats and calculate whether they make the interval bigger or smaller. 
+In the following sections, you will learn a few other methods. 
+This will help to deepen your understanding of intervals, and it will also give you several ways of finding the correct answer to a question, which is a very useful way of double-checking your answers in an exam. 
 
-Two of these methods are: 
+The other methods we will learn are:  
 
 - Using the major scale of the bottom note
-- using a different major scale 
+- Using a different major scale (maybe not???)
+- Interval inversion
 
