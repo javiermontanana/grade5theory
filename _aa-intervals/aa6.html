@@ -1,0 +1,117 @@
+---
+layout: chapter
+title: aa6 interval inversion
+abc: true
+---
+
+<p>
+    To invert something means to turn it upside down. 
+    In the case of intervals, it means that if we have an interval with, say, A above D, we will flip those around so that we have D above A. 
+</p>
+
+<div class="slideshow">
+    <img class="active" src="aa6/textda.svg" alt="">
+    <img src="aa6/textad.svg" alt="">
+</div>
+
+<p>
+    We can do this by moving the bottom note up an octave, or by moving the top note down an octave. 
+</p>
+
+<div class="slideshow">
+    <img class="active" src="aa6/da.svg" alt="">
+    <img src="aa6/daup.svg" alt="">
+    <img src="aa6/adup.svg" alt="">
+    <img src="aa6/ad.svg" alt="">  
+    <img src="aa6/addown.svg" alt="">
+    <img src="aa6/dadown.svg" alt="">
+</div>
+
+<p>
+    Try playing around with this. Write down a few intervals, identify them, invert them, then identify the inversion. You'll find that they always follow certain rules: 
+</p>
+
+<ul>
+    <li>the number of an interval and its inversion will always add up to 9. So a second inverts to a seventh, a third to a sixth and a fourth to a fifth. 
+    </li>
+    <li>
+        A major interval inverts to a minor one, a perfect to a perfect, an augmented to a diminished and vice versa. 
+    </li>
+</ul>
+
+<p>
+    Interval inversion is very useful for identifying larger intervals, like 6ths and 7ths. Most people find those harder than 2nds and 3rd, but by inverting them, we can turn them into 2nds or 3rds. Then we can identify the inverted interval, and by following the rules above we then know what the original interval was. 
+</p>
+
+
+<img src="aa6/fe.svg" alt="">
+
+<p>
+    Instead of working out this interval, we can invert it. 
+</p>
+
+<img src="aa6/ef.svg" alt="">
+
+<p>
+    We can quickly see that this is a semitone, therefore a minor second. 
+    Therefore the original interval was a major seventh.     
+</p>
+
+<p>
+    Let's look at a more difficult example.
+</p>
+
+
+<img src="aa6/aesgis.svg" alt="">
+
+Let's invert this. We get:
+
+<img src="aa6/gisaes.svg" alt="">
+
+<p>
+    This is a little easier to identify:
+</p>
+
+<ul>
+    <li>G-A is a major second</li>
+    <li>G&sharp;-A is a minor 2nd</li>
+    <li>G&sharp;-A&flat; is a diminished 2nd</li>
+</ul>
+
+<p>
+    If the inverted interval is a diminished 2nd, then the original interval is an augmented 7th. 
+</p>
+
+<p>
+    In an exam, I encourage you to invert every sixth and seventh, use this as a second method of identifying the interval, and as a way to double check you answers.     
+</p>
+
+
+<script>
+
+    function initSlideshow(slideshowContainer) {
+        let slideIndex = 0;
+        const slides = slideshowContainer.querySelectorAll('img');
+    
+        function showSlides() {
+            slideIndex++;
+            if (slideIndex >= slides.length) {
+                slideIndex = 0;
+            }
+    
+            for (let i = 0; i < slides.length; i++) {
+                slides[i].classList.remove('active');
+            }
+    
+            slides[slideIndex].classList.add('active');
+        }
+    
+        // Start the slideshow with an interval
+        setInterval(showSlides, 2000);
+    }
+    
+    // Initialize all slideshows on the page
+    document.querySelectorAll('.slideshow').forEach(initSlideshow);
+    
+</script>
+    

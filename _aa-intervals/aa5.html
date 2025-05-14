@@ -1,0 +1,146 @@
+---
+layout: chapter
+title: aa5 identifying intervals using the major scale of the bottom note
+abc: true
+---
+
+<p>
+    Let's look at the C major scale again. 
+    This time, we're going to identify the intervals from note 1 of the scale (C) up to each of the other notes. 
+</p>
+
+
+<div class="slideshow">
+    <img class="active" src="aa5/cmaj/1.svg" alt="">
+    <img src="aa5/cmaj/2.svg" alt="">
+    <img src="aa5/cmaj/3.svg" alt="">
+    <img src="aa5/cmaj/4.svg" alt="">
+    <img src="aa5/cmaj/5.svg" alt="">
+    <img src="aa5/cmaj/6.svg" alt="">
+    <img src="aa5/cmaj/7.svg" alt="">
+    <img src="aa5/cmaj/8.svg" alt="">
+</div>
+
+
+<p>
+    We can see that all the intervals are either perfect or major! 
+    If you are unsure about this go back and review the section where we identified all intervals in the C major scale. 
+</p>
+
+<p>
+    This is very useful, because it is not only true of C major; it is true of any major scale. 
+    <strong>In any major scale, the interval from note 1 up to any of the other notes of the scale will always be perfect or major. </strong>
+</p>
+
+<p>
+    As an example, let's think about some notes in the E major scale.
+</p>
+<ul>
+    <li>E is note 1 of the scale.</li>
+    <li>B is note 5, and E - B is a perfect fifth.</li>
+    <li>C&sharp; is note 6, and E - C&sharp; is a major 6th.</li>
+</ul>   
+
+<p>
+    If we know our major scales, this gives us a different method for identifying intervals. Let's use this to identify the interval G - E&flat;.
+</p>
+
+<table>
+    <tr>
+        <th><img src="aa5/ges.svg" alt=""></th>
+    </tr>
+    <tr>
+        <td>We wany to identify the interval G-E&flat;</td>
+    </tr>
+</table>
+
+<p>
+    The note E&flat; is not in the G major scale, but the note E is. It is the sixth note of the scale, so D - E is a major 6th, which means that G - E&flat; is a minor 6th. 
+</p>
+
+<table>
+    <tr>
+        <th><img src="aa5/ge.svg" alt=""></th>
+        <th><img src="aa5/ges.svg" alt=""></th>
+    </tr>
+    <tr>
+        <td>G - E is a major 6th</td>
+        <td>so G - E&flat; is a minor 6th</td>
+    </tr>
+</table>
+
+<p>
+    Let's try a harder one. 
+</p>
+
+<table>
+    <tr>
+        <th><img src="aa5/disc.svg" alt=""></th>
+    </tr>
+    <tr>
+        <td>let's try to identify the interval D&sharp;-C</td>
+    </tr>
+</table>
+
+<p>
+    We could, in theory, use the D&sharp; major scale to identify this interval, but that would get very complicated. 
+    D&sharp; major is a scale you've probably never seen before. 
+    But we can instead use D major, which is a scale we are all more familiar with.  
+</p>
+
+<img src="aa5/dmajb.svg" alt="">
+
+<p>
+    D major has 2 sharps in the key signature, so it has a C&sharp; as the 7th note. 
+    So we know that D-C&sharp; is a major 7th. 
+    We will work from that starting point and then add a natural to the C and a sharp to the D to get to the interval we wanted to identify. 
+</p>
+
+<table>
+    <tr>
+            <th><img src="aa5/dcis.svg" alt=""></th>
+        <th><img src="aa5/dc.svg" alt=""></th>
+        <th><img src="aa5/disc.svg" alt=""></th>
+    </tr>
+    <tr>
+        <td>D-C&sharp; is a <strong>major 7th</strong></td>
+        <td>D-C&natural; is a <strong>minor 7th</strong></td>
+        <td>D&sharp;-C&natur; is a <strong>diminished 7th</strong></td>
+    </tr>
+</table>
+
+
+<p>
+    If you are not very confident with your major scales, make sure you get better at them and come back to this method later. 
+</p>
+
+
+<script>
+
+    function initSlideshow(slideshowContainer) {
+        let slideIndex = 0;
+        const slides = slideshowContainer.querySelectorAll('img');
+    
+        function showSlides() {
+            slideIndex++;
+            if (slideIndex >= slides.length) {
+                slideIndex = 0;
+            }
+    
+            for (let i = 0; i < slides.length; i++) {
+                slides[i].classList.remove('active');
+            }
+    
+            slides[slideIndex].classList.add('active');
+        }
+    
+        // Start the slideshow with an interval
+        setInterval(showSlides, 2000);
+    }
+    
+    // Initialize all slideshows on the page
+    document.querySelectorAll('.slideshow').forEach(initSlideshow);
+    
+</script>
+    
+
