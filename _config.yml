@@ -12,11 +12,11 @@ keywords: "music theory, OER, university of idaho, inquiry-based"
 owner: Sean Butterfield
 email: sbutterfield@uidaho.edu
 published: 2023
-github-repo: https://github.com/intmus/inttheory
+github-repo: 
 
 # urls
-url: https://intmus.github.io
-baseurl: /inttheory
+url: https://javier.montanana.com
+baseurl: /grade5theory
 
 # collections
 # each unit of the book is a collection

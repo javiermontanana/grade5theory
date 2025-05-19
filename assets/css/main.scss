@@ -33,7 +33,6 @@ td, th {
 
 .slideshow {
 position: relative;
-padding-bottom: 25%;
 }
 
 .slideshow img {
@@ -46,4 +45,16 @@ transition: opacity 0s;
 
 .slideshow img.active {
 opacity: 1;
+}
+
+.cmajintervalslides {
+  padding-bottom: 40%;
+}
+
+.cmajintervalfromc {
+  padding-bottom: 20%;
+}
+
+.inversionslides {
+  padding-bottom: 10%;
 }
