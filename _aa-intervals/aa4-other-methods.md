@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: aa4 other methods
+title: Other methods
 abc: true
 ---
 

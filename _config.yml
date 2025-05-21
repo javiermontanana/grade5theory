@@ -23,10 +23,10 @@ baseurl: /grade5theory
 # each unit collection should be given a name value
 collections:
   01-pitches-clefs:
-    output: true
+    output: false
     name: 1) Pitches and Clefs
   02-int-scales-keys:
-    output: true
+    output: false
     name: 2) Intervals, Scales, and Keys
   aa-intervals:
     output: true
@@ -35,13 +35,13 @@ collections:
     output: true
     name: 25) Scales and Keys
   ac-transposing:
-    output: true
+    output: false
     name: 26) Transposing
   ad-chromatic-and-enharmonic:
-    output: true
+    output: false
     name: 27) Chromatic and Enharmonic
   ae-chords:
-    output: true
+    output: false
     name: 28) Chords
 #  final-project:
 #    output: true

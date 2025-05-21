@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: aa9 building your intuitions for intervals 
+title: Building your musical intuition and understanding intervals 
 abc: true
 ---
 
