@@ -22,27 +22,27 @@ baseurl: /grade5theory
 # each unit of the book is a collection
 # each unit collection should be given a name value
 collections:
-  01-pitches-clefs:
-    output: false
-    name: 1) Pitches and Clefs
-  02-int-scales-keys:
-    output: false
-    name: 2) Intervals, Scales, and Keys
+  # 01-pitches-clefs:
+  #   output: false
+  #   name: 1) Pitches and Clefs
+  # 02-int-scales-keys:
+  #   output: false
+  #   name: 2) Intervals, Scales, and Keys
   aa-intervals:
     output: true
     name: 24) Intervals
-  ab-scales:
-    output: true
-    name: 25) Scales and Keys
-  ac-transposing:
-    output: false
-    name: 26) Transposing
-  ad-chromatic-and-enharmonic:
-    output: false
-    name: 27) Chromatic and Enharmonic
-  ae-chords:
-    output: false
-    name: 28) Chords
+  # ab-scales:
+  #   output: true
+  #   name: 25) Scales and Keys
+  # ac-transposing:
+  #   output: false
+  #   name: 26) Transposing
+  # ad-chromatic-and-enharmonic:
+  #   output: false
+  #   name: 27) Chromatic and Enharmonic
+  # ae-chords:
+  #   output: false
+  #   name: 28) Chords
 #  final-project:
 #    output: true
 #    name: Final Project Notes and Discussion
