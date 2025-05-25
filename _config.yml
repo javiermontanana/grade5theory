@@ -31,9 +31,9 @@ collections:
   aa-intervals:
     output: true
     name: 24) Intervals
-  # ab-scales:
-  #   output: true
-  #   name: 25) Scales and Keys
+  ab-scales:
+    output: true
+    name: 25) Scales and Keys
   # ac-transposing:
   #   output: false
   #   name: 26) Transposing
