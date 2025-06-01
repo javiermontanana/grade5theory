@@ -17,9 +17,9 @@ For example, the interval A-B would have interval number 2, and we call it a sec
 
 Look at some examples below. 
 
-|![](number/second.svg)|
-|:--:|
-|*G - A is a second*|
+|![](number/second.svg)|![](number/third.svg)|
+|:--:|:--:|
+|*G - A is a second*|*G - B is a third*|
 
 
 |![](number/third.svg)|
