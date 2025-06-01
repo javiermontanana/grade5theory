@@ -1,0 +1,102 @@
+---
+layout: chapter
+title: Scales 2 - scales with sharps
+---
+
+
+<p>
+    Now, let's try to make a major scale starting on a different note. 
+    In principle, I could pick any note to start my new scale, but I'm going to use the fact that the two tetrachords are the same and I'm going to do it so that the top tetrachord of C major becomes the bottom tetrachord of my new scale. 
+    By doing it this way, the first four notes of my new scale are already done. 
+    Our scale will start g-a-b-c.
+</p>
+
+<img src="svgs/gabc.svg" alt="tetrachord g-a-b-c">
+
+<p>
+    G is note 1 of the scale so it will be a G major scale.
+    If we just use all natural notes, we don't have a G major scale, because we don't have the second semitone in the right place. 
+</p>
+
+<img src="svgs/gmixo1oct-st.svg" alt="g mixolidian">
+
+<p>
+    But it's very close!
+    All we need to do is raise F to an F&sharp; and there we have it. 
+</p>
+
+<h4>G major scale</h4>
+
+<img src="svgs/gmaj1oct-st.svg" alt="g major scale">
+
+<p>
+    Now we have all the tones and semitones in the right place. 
+    So this is a G major scale. 
+</p>
+
+<p>
+    The process we have just carried out to get the G major scale from the C major scale, we can now repeat with the G major scale, to obtain the D major scale. 
+</p>
+
+<div class="slideshow" style="padding-bottom: 20%;">
+    <img class="active" src="svgs/slidegmaj2oct.svg" alt="">
+    <img src="svgs/slidedmixo1oct.svg" alt="">
+    <img src="svgs/slidedmaj1oct.svg" alt="">
+</div>
+
+<p>
+    Notice that what we are doing each time is making a new scale that starts on note 5 (a perfect fifth above) of the previous scale, 
+    and adding the extra sharp we need to note 7 of the new scale (or note 4 of the old one). 
+</p>
+
+<p>
+    We can keep doing this to form all of the following scales. 
+</p>
+
+<h4>A major</h4>
+<img src="svgs/amaj1oct.svg" alt="">
+
+<h4>E major</h4>
+<img src="svgs/emaj1oct.svg" alt="">
+
+<h4>B major</h4>
+<img src="svgs/bmaj1oct.svg" alt="">
+
+<h4>F sharp major</h4>
+<img src="svgs/fismaj1oct.svg" alt="">
+
+<h4>C sharp major</h4>
+<img src="svgs/cismaj1oct.svg" alt="">
+
+<hr>
+
+
+
+
+<script>
+
+    function initSlideshow(slideshowContainer) {
+        let slideIndex = 0;
+        const slides = slideshowContainer.querySelectorAll('img');
+    
+        function showSlides() {
+            slideIndex++;
+            if (slideIndex >= slides.length) {
+                slideIndex = 0;
+            }
+    
+            for (let i = 0; i < slides.length; i++) {
+                slides[i].classList.remove('active');
+            }
+    
+            slides[slideIndex].classList.add('active');
+        }
+    
+        // Start the slideshow with an interval
+        setInterval(showSlides, 2000);
+    }
+    
+    // Initialize all slideshows on the page
+    document.querySelectorAll('.slideshow').forEach(initSlideshow);
+    
+</script>

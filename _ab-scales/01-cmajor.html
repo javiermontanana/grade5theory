@@ -1,0 +1,60 @@
+---
+layout: chapter
+title: Scales 1 - the c major scale
+---
+
+<h1>Major Scales</h1>
+
+<h3>the C major Scale</h3>
+
+<p>
+    As we already know, the natural notes form a C major scale. That is to say that they form a series of 8 notes, with tones and semitones arranged in this way: semitones between notes 3-4 and 7-8. This is really what a major scale is, and it's important that you memorise that. 
+</p>
+
+<img src="svgs/cmaj1octst.svg" alt="c major">
+
+<p>
+    You might have noticed that the bottom half of the scale looks a lot like the top half. 
+    We have two sets of 4 notes, with the the semitones between notes 3 and 4. 
+    A set of 4 notes is called a tetrachord. 
+    One very helpful way to understand the Major scale is to see it as two tetrachord like that. 
+</p>
+
+<img src="svgs/cmaj1octst-tetra.svg" alt="">
+
+<p>
+    Here is the c major scale again, this time on 2 octaves, with the two tetrachords and the semitones highlighted. 
+</p>
+
+<img src="svgs/cmaj2oct-st-tetra.svg" alt="c major 2 octaves">
+
+
+
+
+<script>
+
+    function initSlideshow(slideshowContainer) {
+        let slideIndex = 0;
+        const slides = slideshowContainer.querySelectorAll('img');
+    
+        function showSlides() {
+            slideIndex++;
+            if (slideIndex >= slides.length) {
+                slideIndex = 0;
+            }
+    
+            for (let i = 0; i < slides.length; i++) {
+                slides[i].classList.remove('active');
+            }
+    
+            slides[slideIndex].classList.add('active');
+        }
+    
+        // Start the slideshow with an interval
+        setInterval(showSlides, 2000);
+    }
+    
+    // Initialize all slideshows on the page
+    document.querySelectorAll('.slideshow').forEach(initSlideshow);
+    
+</script>

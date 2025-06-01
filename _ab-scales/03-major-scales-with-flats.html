@@ -1,0 +1,102 @@
+---
+layout: chapter
+title: Scales 3 -scales with flats
+---
+
+
+
+<h2>Scales with flats</h2>
+
+<p>
+    In the previous section we formed a lot of different major scales, all with sharps. 
+    In this section we will form all of the major scales which have flats. 
+</p>
+
+<p>
+    We will start again from C major, and this time we will form a new scale such that the top tetrachord of our new scale is the bottom tetrachord of C major. 
+    This is the other way round to what we did in the previous section. 
+</p>
+
+<img src="svgs/cmaj2oct.svg" alt="">
+
+<img src="svgs/flyd1oct.svg" alt="">
+<img src="svgs/fmaj1oct.svg" alt="">
+
+<img src="" alt="c-d-e-f">
+
+<p>
+    C-D-E-F will be notes 5,6,7,8 of our new scale which means that our scale will be F major (note 1 and 8 are the same)
+</p>
+
+<img src="" alt="f lydian">
+
+<p>
+    Starting on F with just natural notes we don't quite have a major scale, but it's very close!
+    We just need to lower the B to a B&flat;.
+</p>
+
+<img src="" alt="F major">
+
+<p>
+    Now we have all the tones and semitones in the rigth place, so we have an F major scale. 
+</p>
+
+<P>
+    We can keep doing this to each new scale that we make:
+    Creating a new major scale by starting on note 4 of the previous scale (or a perfect fifth below)
+    and flattening note 4 of the new scale (or note 7 of the old scale).  
+</P>
+
+<p> 
+    If we keep repeating this we obtain all the following major scales. 
+</p>
+
+<h4>B flat major</h4>
+<img src="svgs/besmaj1oct.svg" alt="">
+
+<h4>E flat major</h4>
+<img src="svgs/esmaj1oct.svg" alt="">
+
+<h4>A flat major</h4>
+<img src="svgs/aesmaj1oct.svg" alt="">
+
+<h4>D flat major</h4>
+<img src="svgs/desmaj1oct.svg" alt="">
+
+<h4>G flat major</h4>
+<img src="svgs/gesmaj1oct.svg" alt="">
+
+<h4>C flat major</h4>
+<img src="svgs/cesmaj1oct.svg" alt="">
+
+<hr>
+
+
+
+<script>
+
+    function initSlideshow(slideshowContainer) {
+        let slideIndex = 0;
+        const slides = slideshowContainer.querySelectorAll('img');
+    
+        function showSlides() {
+            slideIndex++;
+            if (slideIndex >= slides.length) {
+                slideIndex = 0;
+            }
+    
+            for (let i = 0; i < slides.length; i++) {
+                slides[i].classList.remove('active');
+            }
+    
+            slides[slideIndex].classList.add('active');
+        }
+    
+        // Start the slideshow with an interval
+        setInterval(showSlides, 2000);
+    }
+    
+    // Initialize all slideshows on the page
+    document.querySelectorAll('.slideshow').forEach(initSlideshow);
+    
+</script>
