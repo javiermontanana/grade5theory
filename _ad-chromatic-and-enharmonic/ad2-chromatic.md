@@ -21,12 +21,12 @@ could also be written like this: a Bb B
 
 or like this Bbb Bb Cb
 
-or manay other ways. They are all enharmonically equivalent and as far as writing a chromatic scale goes, they are all equally correct. 
+or other ways. They are all enharmonically equivalent and as far as writing a chromatic scale goes, they are all equally correct. 
 
 ### aside
 
 In reality, some of these make sense in the context of certain keys, and some of them in ohters. 
-
+(delete this)
 
 ### chromatic scale question in the exam 
 
@@ -36,6 +36,9 @@ Example
 
 ....
 
+
+remember:
+at least 1 and no more than 2 on each stave position
 
 
 
