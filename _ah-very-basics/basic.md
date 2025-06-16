@@ -4,6 +4,10 @@ title: the basics
 ---
 
 
+notes 
+what is a note
+
+
 
 Stave
 
@@ -29,6 +33,14 @@ double flats and shaprs.
 
 
 octave/registers
+what is an octave - interval
+where the letters repeat. 
+
+
+
+
+
+
 
 
 note values?
