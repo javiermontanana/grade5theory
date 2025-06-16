@@ -34,9 +34,9 @@ collections:
   ab-scales:
     output: true
     name: 25) Scales and Keys
-  # ac-transposing:
-  #   output: false
-  #   name: 26) Transposing
+  ac-transposing:
+    output: true
+    name: 26) Transposing
   # ad-chromatic-and-enharmonic:
   #   output: false
   #   name: 27) Chromatic and Enharmonic
