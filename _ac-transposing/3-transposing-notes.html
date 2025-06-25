@@ -27,7 +27,7 @@ title: Transposing the notes
 <p>
     Look at the following example in C major. 
 </p>
-<img src="" alt=" simple example: 4/4 :  do fa mi la sol si do -  ">
+<img src="svgs/transp-ex2-inC.svg" alt=" simple example: 4/4 :  do fa mi la sol si do -  ">
 
 <h2>
     Method 1
@@ -49,7 +49,7 @@ title: Transposing the notes
     If we work them all out we have this: 
 </p>
 
-<img src="" alt="transp to D">
+<img src="svgs/transp-ex2-inD.svg" alt="transp to D">
 
 <h2>Method 2</h2>
 
@@ -59,11 +59,27 @@ title: Transposing the notes
 </p>
 
 <p>
+    In order to use this method, I will first work out all the intervals between the notes of this melody:
+</p>
+
+<img src="svgs/transp-ex2-inC-int.svg" alt="">
+
+
+<p>
     If we transpose the first note, we obtain an E flat. 
     From this note, I will follow each interval in the original example. 
 </p>
 
-<img src="" alt="transp to e flat">
+<div class="slideshow transposingslides">
+    <img class="active" src="svgs/transp-ex2-inEflat-1.svg" alt="">
+    <img src="svgs/transp-ex2-inEflat-2.svg" alt="">
+    <img src="svgs/transp-ex2-inEflat-3.svg" alt="">
+    <img src="svgs/transp-ex2-inEflat-4.svg" alt="">
+    <img src="svgs/transp-ex2-inEflat-5.svg" alt="">
+    <img src="svgs/transp-ex2-inEflat-6.svg" alt="">
+    <img src="svgs/transp-ex2-inEflat-7.svg" alt="">
+    <img src="svgs/transp-ex2-inEflat.svg" alt="">
+</div>
 
 
 <h2>Method 3</h2>
@@ -73,7 +89,7 @@ title: Transposing the notes
     To do this, I will first have to wrok out what the scale degrees are. 
 </p>
 
-<img src="" alt="with scale degrees">
+<img src="svgs/transp-ex2-inC-sd.svg" alt="with scale degrees">
 
 <p>
     Up a perfect 5th from C is G, so our answer will have these scale degrees in G major.
@@ -92,9 +108,38 @@ title: Transposing the notes
     The second note will be the C <em>above</em> that. 
 </p>
 
-<img src="" alt="transposed with scale degrees">
+<img src="svgs/transp-ex2-inG-sd.svg" alt="transposed with scale degrees">
 
 <p>
     You need to keep track of the outline, of the melody to make sure that you don't go to the right notes
     in the wrong octave. 
 </p>
+
+
+<script>
+
+    function initSlideshow(slideshowContainer) {
+        let slideIndex = 0;
+        const slides = slideshowContainer.querySelectorAll('img');
+    
+        function showSlides() {
+            slideIndex++;
+            if (slideIndex >= slides.length) {
+                slideIndex = 0;
+            }
+    
+            for (let i = 0; i < slides.length; i++) {
+                slides[i].classList.remove('active');
+            }
+    
+            slides[slideIndex].classList.add('active');
+        }
+    
+        // Start the slideshow with an interval
+        setInterval(showSlides, 2000);
+    }
+    
+    // Initialize all slideshows on the page
+    document.querySelectorAll('.slideshow').forEach(initSlideshow);
+    
+</script>
