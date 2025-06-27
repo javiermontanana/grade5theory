@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: interval number
+title: Interval Number
 abc: true
 ---
 
