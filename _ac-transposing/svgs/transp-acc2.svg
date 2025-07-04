@@ -5,8 +5,31 @@
    viewBox="0 0 1014.1198 239.18002"
    version="1.2"
    id="svg77"
+   sodipodi:docname="transp-acc2.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="6.7262761"
+     inkscape:cx="87.641362"
+     inkscape:cy="31.88986"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg77" />
   <defs
      id="defs77" />
   <title
@@ -61,7 +84,8 @@
   <path
      class="MeasureNumber"
      d="m 17.359932,-4.9582032e-5 h -1.16 C 13.999932,1.6399505 9.769933,3.0299505 6.879933,3.0299505 l -0.47,1.76 h 2.75 c 2.429999,0 2.719999,0.08 2.719999,0.8 0,0.36 0,0.36 -0.4,1.8 L 7.199933,23.38995 c -0.53,2 -0.56,2.12 -0.92,2.48 -0.4,0.39 -1.25,0.52 -3.36,0.56 h -1.72 l -0.20000007,1.88 H 15.799932 l 0.23,-1.88 h -2.15 c -2.6,0 -3.16,-0.2 -3.16,-1.07 0,-0.29 0.16,-1.21 0.36,-1.97 l 6.28,-23.389999582032 m 26.08,0.150000002032 c -2.13,0.24 -4.72,0.41 -6.96,0.41 -1.12,0 -2.4,-0.05 -3.84,-0.13 -1.33,-0.07 -2.64,-0.15 -4,-0.23 l -1,-0.05 -3.87,8.44000008 1.46,0.48 0.97,-1.61 c 1.88,-3.1 2.75,-3.54 6.83,-3.51 h 6.77 l -4.36,6.2499995 c -5.13,7.19 -5.13,7.19 -7.08,10.39 -1.77,2.84 -2.48,4.59 -2.48,6.03 0,1.41 0.89,2.28 2.28,2.28 1.48,0 2.23,-0.72 2.76,-2.59 2,-7.52 3.21,-10.13 8.75,-19.1099995 l 3.77,-5.84 V 0.14995042"
-     id="path23" />
+     id="path23"
+     style="fill:#000000;fill-opacity:0" />
   <polyline
      class="BarLine"
      fill="none"
