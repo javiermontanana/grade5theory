@@ -5,9 +5,9 @@
 # by evanwill
 
 # site info
-title: "Integrated Music Theory"
-tagline: "2023-24"
-description: "an open, interactive, online textbook for college music theory"
+title: "Music Theory"
+tagline: ""
+description: "an open online textbook for grade 5 music theory"
 keywords: "music theory, OER, university of idaho, inquiry-based"
 owner: Sean Butterfield
 email: sbutterfield@uidaho.edu
@@ -15,7 +15,7 @@ published: 2025
 github-repo: 
 
 # urls
-url: https://javier.montanana.com
+url: https://javiermontanana.com
 baseurl: /grade5theory
 
 # collections
@@ -30,13 +30,13 @@ collections:
   #   name: 2) Intervals, Scales, and Keys
   aa-intervals:
     output: true
-    name: 24) Intervals
+    name: 1) Intervals
   ab-scales:
     output: true
-    name: 25) Scales and Keys
+    name: 2) Scales and Keys
   ac-transposing:
     output: true
-    name: 26) Transposing
+    name: 3) Transposing
   # ad-chromatic-and-enharmonic:
   #   output: false
   #   name: 27) Chromatic and Enharmonic
