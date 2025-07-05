@@ -22,8 +22,8 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="7.560107"
-     inkscape:cx="126.25483"
-     inkscape:cy="24.007597"
+     inkscape:cx="575.19027"
+     inkscape:cy="50.594522"
      inkscape:window-width="1920"
      inkscape:window-height="1111"
      inkscape:window-x="-9"
@@ -268,4 +268,24 @@
        style="fill:#000000;fill-opacity:0.948403;stroke-width:2.83465"
        x="154.22171"
        y="50.747623">G major</tspan></text>
+  <path
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2.83465;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 493.00894,203.35283 53.02229,-63.2102 73.37994,54.16869"
+     id="path1"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2.83465;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 1130.7468,147.04824 53.0223,-63.210196 73.3799,54.168686"
+     id="path1-9"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2.83465;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 1610.7206,103.36929 53.0223,-63.210203 73.38,54.168689"
+     id="path1-8"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2.83465;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 2256.1235,57.423362 46.078,-53.2897049 61.4754,44.2481949"
+     id="path1-2"
+     sodipodi:nodetypes="ccc" />
 </svg>

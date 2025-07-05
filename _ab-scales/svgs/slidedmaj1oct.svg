@@ -22,7 +22,7 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="7.560107"
-     inkscape:cx="261.04128"
+     inkscape:cx="451.51477"
      inkscape:cy="25.065783"
      inkscape:window-width="1920"
      inkscape:window-height="1111"
@@ -179,4 +179,14 @@
        style="fill:#000000;fill-opacity:0.948403;stroke-width:2.83465"
        x="770.16492"
        y="51.265335">D major</tspan></text>
+  <path
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2.83465;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 1131.9569,146.64951 53.0223,-63.210203 73.38,54.168683"
+     id="path1-8"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2.83465;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 1767.4728,92.562496 53.0223,-63.210205 73.38,54.168685"
+     id="path1-8-1"
+     sodipodi:nodetypes="ccc" />
 </svg>
