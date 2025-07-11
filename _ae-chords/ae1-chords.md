@@ -35,7 +35,11 @@ and another third on top of that, G
 and we would then have a chord. 
 
 aka triad, but i will use the word chord mostly.
+
 -------------------------
+
+
+
 
 ## chord factors
 ## notes in the chord
@@ -57,7 +61,10 @@ we will call the notes root third and fifth.
 
 the root is the note chord is built on, but as we will see later, it doesn't have to appear at the bottom of the chord,
 but the chord as a concept is created by taking the root and adding a third and a fifth on top. 
+
 ----------------------
+
+
 
 ## chord types (quality)
 
@@ -92,8 +99,14 @@ If we have a major third and then a major third on top, we have an augmented tri
 An augmented triad has an augmented fifth between the root and the fifth. 
 
 
+
 Diminished and augmented triads get their name from the fifth. 
 Major and minor triads have a perfect fifth, so they get their name from the third. 
+
+
+---------------
+
+## identify chords by root and type
 
 One way to identify chords is by the root and type. 
 So the chords we have built above would be called 
@@ -121,12 +134,16 @@ c minor arpeggio ex ks
 
 
 In the next section we will see that we can form triads on any degree of the scale in any key. 
+
 -------------------------
+
+
 
 ## triads on all degrees of the scale 
 
 We have already seen examples of triads formed on the tonic of major and minor keys. 
 In this section, we will form triads on all the degrees of the scale in both major and minor keys. 
+
 
 ### chords in major keys 
 
@@ -142,7 +159,7 @@ For minor keys we will use the harmonic scale.
 The harmonic scale is more associated with harmony and chords, so this exercise is most often done with the harmonic minor scale, 
 but it would be good practice for you to also do this for the melodic minor scale as well. 
 
-### labelling 
+### roman numeral labelling 
 
 we use roman numerals.
 
@@ -153,6 +170,8 @@ chord I - V etc
 labelling with roman numerals
 
 arpeggios in examss....
+
+
 --------------------------
 
 ## inversions
@@ -195,6 +214,8 @@ c for second inversion.
 
 Together with the roman numerals we learnt about earlier, 
 this gives us a system where we can identify what each chord is and what inversion it is in. 
+
+
 -----------------------------
 
 
@@ -203,32 +224,40 @@ this gives us a system where we can identify what each chord is and what inversi
 
 figured bass - explain
 figured bass is not required in grade 5, but is essential in higher grades, it is also more useful generally. 
+
 -------------------------
 
+
 ## identifying chords by root and type and inversion
-t
+
+
 ----------------------------
 
 
 
 
 ## chords as belonging to keys
-t
+
 ----------------------------
 
 
 ## identifying chords by roman numberals and inversion
 
 Most of the time going forward, we will identify chords in this way. 
+
 ---------------------------
 
+
 ## suggesting suitable chords
+
 
 ### non chord tones 
 
 passing notes
 
 negihbour notes
+
+
 -------------------
 
 
@@ -243,6 +272,8 @@ But for the purposes of the grade 5 exam, you can think of a cadence as a sequen
 
 depending on which chords, 
 we give cadences different names, 
+
+
 ------------------------------
 
 
