@@ -174,7 +174,7 @@ arpeggios in examss....
 
 --------------------------
 
-## inversions
+## inversions/positions
 
 
 We have seen how we form chords by stacking thirds. 
