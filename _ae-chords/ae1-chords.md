@@ -159,7 +159,7 @@ For minor keys we will use the harmonic scale.
 The harmonic scale is more associated with harmony and chords, so this exercise is most often done with the harmonic minor scale, 
 but it would be good practice for you to also do this for the melodic minor scale as well. 
 
-### roman numeral labelling 
+### roman numeral labelling (not sure this should go here yet)
 
 we use roman numerals.
 
