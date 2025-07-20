@@ -177,6 +177,71 @@ arpeggios in examss....
 ## inversions/positions
 
 
+So far, all the chords we have seen looked like this:
+
+o
+o
+o
+
+with the root at the bottom, the third a third above and the fifth a fifth above. 
+
+But the truth is that chords can take many forms.
+
+When we speak about a chord, like a C major chord, 
+we are referring to the set of notes C, E and G. 
+And C E and G can appear in many different octaves, in many different ways. 
+All of those different ways form a C major chord as long as they contain the notes C E and G. 
+
+
+
+Examples of different position c major chords
+
+
+examples of c major arpeggios chords
+
+
+
+
+moonlight sonata example. 
+
+
+
+
+
+
+------
+
+Generally speaking, you don't need to worry about the posistion a chord is in, 
+as they all behave in basically the same way, 
+but we do need to take note of which note appears lowest in the chord, 
+(we call this appearing *in the bass*)
+
+
+### inversions
+
+In the exmaples above, the root of the chord (C) was always in the bass.
+We say that those chords are in root position. 
+When one of the other notes is the lowest we say that the chord is in an inversion. 
+
+- When the root is in the bass, the chord is in root position.
+- When the third is in the bass, the chord is in first inversion.
+- When the fifth is in the bass, the chord is in second position.
+
+
+### labelling 
+
+In the last section we learnt about labelling chords according to what scale degree they are. 
+In addition to that, we will also label them with the letters a,b,c depending on their inversion. 
+
+- a for root position
+- b for first inversion
+- c for second inversion
+
+
+
+
+
+
 We have seen how we form chords by stacking thirds. 
 But in this section we will see that chords can appear in different forms, 
 some of which we call inversions. 
@@ -219,7 +284,7 @@ this gives us a system where we can identify what each chord is and what inversi
 -----------------------------
 
 
-## figured bass 
+## 05 - figured bass 
 
 
 figured bass - explain
@@ -228,22 +293,9 @@ figured bass is not required in grade 5, but is essential in higher grades, it i
 -------------------------
 
 
-## identifying chords by root and type and inversion
-
-
-----------------------------
-
-
-
-
-## chords as belonging to keys
-
-----------------------------
-
-
 ## identifying chords by roman numberals and inversion
 
-Most of the time going forward, we will identify chords in this way. 
+
 
 ---------------------------
 
@@ -255,7 +307,7 @@ Most of the time going forward, we will identify chords in this way.
 
 passing notes
 
-negihbour notes
+neighbour notes (aka auxiliary notes)
 
 
 -------------------
@@ -273,11 +325,32 @@ But for the purposes of the grade 5 exam, you can think of a cadence as a sequen
 depending on which chords, 
 we give cadences different names, 
 
+perfect
+imperfect 
+plagal
+
+also: 
+near in mind: 
+V - VI interrupted.
+
+different nomenclature: 
+
+perfect - authentic cadence
+imperfect - half-cadence
+interrupted - deceptive cadence
+
+
 
 ------------------------------
 
 
 
+
+## building you intuition for chords and harmony 
+
+listening
+
+identifying chords by listening 
 
 
 

@@ -40,9 +40,9 @@ collections:
   # ad-chromatic-and-enharmonic:
   #   output: false
   #   name: 27) Chromatic and Enharmonic
-  # ae-chords:
-  #   output: false
-  #   name: 28) Chords
+  ae-chords:
+    output: true
+    name: 4) Chords
 #  final-project:
 #    output: true
 #    name: Final Project Notes and Discussion
