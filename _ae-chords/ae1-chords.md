@@ -321,11 +321,117 @@ neighbour notes (aka auxiliary notes)
 -------------------
 
 
+When we listen to a piece of music, there are certain point of pause or rest
+
+
+
+
+
+A piece of music is organised into smaller 
+
+
+
+
+
+
+A musical phrase is a musical idea that 
+
+
+
+at the end of the phrase we have a cadence
+
+## cadences
+
+
+
+
+### musical form 
+
+
+
+Just like a written text is made up of sections, possibly chapters, paragraphs, sentences and phrases, a piece of music is also made up of smaller units that come together to form 
+larger and larger units, and eventually a whole piece. 
+
+The small musical units that last ususally a few seconds we also call phrases. 
+These are similar to phrases in written or spoken language. 
+If you think of a song with words and music, 
+the musical phrases will probably roughly correspond to the phrases in the text. 
+
+At the end of a phrase, we have what we call a cadence. 
+A cadence is a point of  pause in the music. 
+You can think of it as a moment of musical punctuation, 
+where you would find a commma or another punctuation mark in a text. 
+
+
+The question of where phrases end and where the cadences are in a piece of music 
+is not really to do with chords and harmony, which is what we are concerned with in this 
+chapter. It has do with the structure of the music, also called musical form. 
+
+You don't need to learn about structure and form for the grade 5 exam. 
+The reason cadences are in this chapter is that we call cadences by different names 
+depending on what chord or chords occur at the end of the phrase (i.e. at the cadence).
+You need to know three of these: 
+
+
+### perfect cadence
+
+A perfect cadence is V - I
+
+
+### imperfect cadence 
+
+An imperfect cadence ends on chord V
+
+It can be preceded by any other chord. 
+
+
+### plagal cadence 
+
+A plagal cadence is IV - I 
+
+
+------
+
+
+The imperfect and the perfect cadence are much more common in western classical music. 
+
+If you remember what we said in chapter 2 about the tonic being the point of resolution and 
+the dominant needing to resolve to the tonic, then the names make sense: 
+the perfect cadence provides perfect closure, and the imperfect cadence provides imperfect 
+closure (or rather, not really closure at all). 
+Bear in mind that any of the chord progressions described above doesn't necessarily 
+constitute a cadence. 
+A cadence occurs at the end of a phrase and it has to with providing closure or lack thereof. 
+
+One of the most common phrase structures used in music is a unit of 2 phrases, 
+where the first phrase ends on an imperfect cadence and the second on a perfect cadence. 
+
+The example below is the beginning of Mozart's Piano Sonata no. 11 in A major. 
+It is composed of two 4-bar phrases. The first end on an imperfect cadence (chord V). 
+The second phrase uses the same material from the first, 
+but in the third bar it changes to resolve on the tonic (perfect cadence). 
+
+This formula with two similar phrases where the first ends on an imperfect cadence (Chord V), 
+and the second ends on a perfect cadence (V-I) 
+is extremely common. 
+If you look for it works of classical music, you will find countless examples. 
+Here's another famous one: the Ode to Joy from Beethoven's 9th Symphony. 
+
+
+
+
+
+
+
+
 ## cadences
 
 what is a cadence, 
 technically, 
 a point of rest in the music, at the end of a phrase
+
+
+
 
 
 But for the purposes of the grade 5 exam, you can think of a cadence as a sequence of 2 chords 
@@ -340,8 +446,17 @@ plagal
 
 
 
+Examples: 
+mozart A major sonata
+beethoven ode to joy
+
+
+
+
+
+
 #### also: 
-near in mind: 
+bear in mind: 
 V - VI interrupted.
 
 #### different nomenclature: 
