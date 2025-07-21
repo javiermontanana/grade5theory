@@ -302,6 +302,14 @@ figured bass is not required in grade 5, but is essential in higher grades, it i
 
 ## suggesting suitable chords
 
+melody and harmony, 
+
+how melody fits harmony, 
+
+
+
+chord tones and non-chord tones 
+
 
 ### non chord tones 
 
@@ -329,11 +337,14 @@ perfect
 imperfect 
 plagal
 
-also: 
+
+
+
+#### also: 
 near in mind: 
 V - VI interrupted.
 
-different nomenclature: 
+#### different nomenclature: 
 
 perfect - authentic cadence
 imperfect - half-cadence
