@@ -466,6 +466,28 @@ imperfect - half-cadence
 interrupted - deceptive cadence
 
 
+------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ------------------------------
 
