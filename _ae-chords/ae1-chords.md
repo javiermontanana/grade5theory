@@ -302,7 +302,117 @@ figured bass is not required in grade 5, but is essential in higher grades, it i
 
 ## suggesting suitable chords
 
-melody and harmony, 
+
+### melody and harmony, 
+
+So far, in this chapter we have been talking about harmony, about how different notes 
+produce chords by sounding together. 
+
+In this section, we will also talk about melody, and how melody interacts with harmony. 
+A melody is a line of notes. 
+
+
+#### how a melody fits the harmony. 
+
+
+So the harmony is the chords that underpin a certain melody. 
+
+A melody fits those chords by moving between notes from those chords. 
+
+So for example we could have a very simple chord progression: I-V-I.
+
+One melody that would fit those chords is: 1-2-3.
+or 1-2-1 would also fit
+
+[example]
+
+Another example of a progression: I-IV-V-I
+
+and a melody that would fit : 5-6-7-1.
+
+
+### chord tones and non-chord tones 
+
+In the examples above, every single note in the melody was a member of the 
+corresponding chord. 
+But this is not always the case. 
+Melodies often use notes notes that are not memebers of the chord (non-chord tones, 
+aka embelishment notes). 
+
+In western classical music, there are some rules that commposers tend to follow 
+about how non-chord tones may be used. 
+In this section we are going to learn some of those rules. 
+The rules laid out here are incomplete and oversimplified, but they are a good starting point 
+and they will serve us well enoguh to answer the questions in the grade 5 theory exam. 
+If you wish, this is a topic that you can study in much more depth than we will go into here. 
+
+
+Broadly speaking, melodies can move between chord notes without restriction. 
+Melodies can jump between chord tones. 
+
+Non-chord tones may be used to connect other chord tones by step. 
+
+
+### passing notes
+
+A note that connect two different chord tones is called a passing note. 
+As in this example: 
+
+1-2-3-
+I-----
+
+
+### auxiliary note, or neighbour notes
+
+When a melody moves away from a chord tone by step and then goes back to the same chord tone, 
+we call that a neighbour note or auxiliary note. 
+The auxiliary note can be above or below the chord note. 
+
+
+do si do | re mi re | do
+I-------- V-------    I
+
+
+
+### more examples
+
+Passing notes and auxiliary notes can connect chord tones from different chords, 
+as in the following examples: 
+
+do si la
+I --- IV
+
+
+
+It is possible to have two passing notes in a row connecting chord tones. 
+
+4   8   8  4
+Sol la si do
+I-----------
+
+Passing and aux notes tend to be shorter (or at least not longer) 
+than the chord notes they connect. 
+
+---------------
+
+
+## finding suitable chords for a melody 
+
+In the grade 5 theory exam, you will need to answer a question where you are given a short 
+melody and you need to suggest suitable chords to fit. 
+
+In a lot of cases, all the notes in the melody will be chord tones, in which case 
+you just need to ask "which chord contains these notes?"
+In some cases , there may be non-chord tones in the melody, in which case you need to use the rules we've learnt and make a decision about which are the chord tones. 
+
+Remember that the only chords you should use are I, II, IV and V. 
+
+
+
+
+
+
+
 
 how melody fits harmony, 
 
