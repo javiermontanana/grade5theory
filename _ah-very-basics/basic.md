@@ -4,12 +4,13 @@ title: the basics
 ---
 
 
-notes 
+## notes 
+
 what is a note
 
 
 
-Stave
+## Stave
 
 
 reading pitch in treble clef
@@ -21,6 +22,15 @@ Middle C - just know what it is.
 
 
 c major scale
+
+
+
+## rhythm 
+
+time signatures
+
+bars
+barlines
 
 
 
