@@ -43,6 +43,9 @@ collections:
   ae-chords:
     output: true
     name: 4) Chords
+  # ag-clefs-and-registers:
+  #   output: true
+  #   name: 5) Clefs and registers
 #  final-project:
 #    output: true
 #    name: Final Project Notes and Discussion

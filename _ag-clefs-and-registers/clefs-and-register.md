@@ -4,7 +4,6 @@
 IF we want to be able to write all the notes in a very wide range
 let's say the whole range of the piano. 
 
-
 In treble clef, to write middle C we already need to use a ledger line, 
 We could use more and more ledger lines to write lower and lower notes, 
 but it quickly becomes hard to read and write these. 
@@ -50,10 +49,10 @@ but in modern use, there are only 4 combinations:
 - C clef on the 4th line (known as tenor clef)
 
 
-## 
+
+## placing middle C in all four clefs
 
 now that we know what each clef stands for, we can place a given pitch on any clef. 
-
 
 Let's start by placing middle C in all 4 clefs: 
 
@@ -88,6 +87,16 @@ let's place another note
 
 
 
+---------------------
+
+
+## a visualisation of the position of clefs.
+
+
+
+
+
+
 
 now imagine instead of 5 line staff we have many more. 
 
@@ -105,33 +114,50 @@ cool visualisation with a tune.
 
 
 
+---------------------
+
+
+
+understanding clefs like this will allow you to understand 
+when you encounter new clefs
+
+in older editions and manuscripts you may see any nummber of clefs. 
+
+even 4-line staff- 
+
+the principles remain the same, a certain clef will place a certain pitch on a certain line 
+from there use the staff and any ledger lines to work out the other notes. 
+
+here are some oxamples of (now) unusual clefs. 
+
+
+
+---------------------------------
+## why so picky about this??
 
 
 
 
 
 
+-------------------------
+## Grand staff
 
 
 
 
+------------------------
+## 8va and 15a signs 
+
+
+following on from grand staff - 
+loco
 
 
 
 
+----------------
+
+## instruments and their registers
 
 
-### why so picky about this??
-
-
-
-
-
-
-### Grand staff
-
-
-
-
-
-### 8va and 15a signs 

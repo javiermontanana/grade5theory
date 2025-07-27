@@ -1,7 +1,7 @@
 
 
 
-### Trill 
+## Trill 
 
 note above: 
 ababababababa
@@ -11,7 +11,7 @@ sometimes a resolution with the note under
 
 
 
-### Mordent: 
+## Mordent: 
 
 A mordent is like a one-turn trill. 
 So we will go from the main to the upper note, then back to the main note. 
@@ -21,14 +21,14 @@ For mordents, we will distinguish between 2 types:
 Upper mordent and lower mordent. 
 
 
-### Turn
+## Turn
 
 
 
 ## Acciaccatura
 
 
-### Appoggiatura 
+## Appoggiatura 
 
 
 
