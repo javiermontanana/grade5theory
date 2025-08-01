@@ -1,8 +1,5 @@
 
 
-
-
-
 IF we want to be able to write all the notes in a very wide range
 let's say the whole range of the piano. 
 
@@ -15,15 +12,14 @@ By using a different clef, we can centre the stave on a different set of notes,
 and we will need ledger lines for any notes outside that range. 
 
 
-
 ## G F and C clefs
 
 There are 3 kinds of clefs that we use: 
 G clefs, C clefs and F clefs. 
 
-- a G clef looks like this: 
-- an F clef looks like this: 
-- a C clef looks like this: 
+- a G clef looks like this: [picture]
+- an F clef looks like this: [picture]
+- a C clef looks like this: [picture]
   (Try the unicode characters!!!!)
 
 
@@ -42,18 +38,19 @@ one the stave.
 
 
 In theory any clef can be located on any line, 
-but in modern use, there are only 4 combinations:
+but there are 4 combinartions that are most commonly used, 
+and that you will see in the grade 5 theory exam:
 
-- G clef on the 2nd line (known as treble clef)
-- F clef on the 4th line (known as bass clef)
-- C clef on the 3rd line (known as alto clef)
-- C clef on the 4th line (known as tenor clef)
-
+- G clef on the 2nd line (known as treble clef)  [picture]
+- F clef on the 4th line (known as bass clef)    [picture]
+- C clef on the 3rd line (known as alto clef)    [picture]
+- C clef on the 4th line (known as tenor clef)   [picture]
 
 
 ## placing middle C in all four clefs
 
-now that we know what each clef stands for, we can place a given pitch on any clef. 
+Now that we know what each clef stands for, 
+we can place a given pitch on any clef. 
 
 Let's start by placing middle C in all 4 clefs: 
 
@@ -123,19 +120,18 @@ cool visualisation with a tune.
 understanding clefs like this will allow you to understand 
 when you encounter new clefs
 
-in older editions and manuscripts you may see any nummber of clefs. 
+in older editions and manuscripts you may see any number of clefs. 
 
 even 4-line staff- 
 
 the principles remain the same, a certain clef will place a certain pitch on a certain line 
 from there use the staff and any ledger lines to work out the other notes. 
 
-here are some oxamples of (now) unusual clefs. 
+here are some examples of (now) unusual clefs. 
 
 
 
----------------------------------
-## why so picky about this??
+### why so picky about this??
 
 
 
