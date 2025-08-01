@@ -1,13 +1,14 @@
 
 
 
+
+
 IF we want to be able to write all the notes in a very wide range
 let's say the whole range of the piano. 
 
 In treble clef, to write middle C we already need to use a ledger line, 
 We could use more and more ledger lines to write lower and lower notes, 
 but it quickly becomes hard to read and write these. 
-
 
 By using a different clef, we can centre the stave on a different set of notes, 
 (a different register). This will allow us to write *those* notes without ledger lines, 
@@ -23,7 +24,7 @@ G clefs, C clefs and F clefs.
 - a G clef looks like this: 
 - an F clef looks like this: 
 - a C clef looks like this: 
-(Try the unicode characters!!!!)
+  (Try the unicode characters!!!!)
 
 
 Each of these clefs will be located on a certain staff line, 
@@ -77,8 +78,9 @@ so in alto clef it will be on the third line, and in tenor clef on the fourth li
 [picture]
 
 
-
 you should memorise where middle C is 
+this is very useful as a reference. 
+(link to transposing page)
 
 
 
@@ -147,10 +149,13 @@ here are some oxamples of (now) unusual clefs.
 
 
 ------------------------
-## 8va and 15a signs 
+## 8va signs 
 
 
 following on from grand staff - 
+
+8va
+15a
 loco
 
 
