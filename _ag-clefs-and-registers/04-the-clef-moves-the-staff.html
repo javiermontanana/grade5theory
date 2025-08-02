@@ -3,3 +3,109 @@ layout: chapter
 title: The Clef Moves the Staff
 ---
 
+
+<p>
+    By seeing that middle C is below the stave in treble clef 
+    and above it in bass clef, you can see that the notes that fall on the stave 
+    are higher in treble clef and lower in bass clef. 
+</p>
+
+<p>
+    In this section, I will show you that you can think of this as the clef 
+    moving the stave to a higher or lower register. 
+</p>
+
+<p>
+    Imagine that instead of a 5-line staff, we had many more. 
+    With so many lines, we are able to write a very wide range of pitches 
+    without using any ledger lines. 
+    On this staff, I will place a G clef, a C clef, and an F clef. 
+</p>
+
+<img width="400px" src="svgs/mega.svg" alt="super staff with 3 clefs">
+
+<p>
+    Here, the 3 clefs still represent the same pitches as usual: 
+    so the C clef represents middle C, 
+    the G clef is the G above (that's why it's a fifth above)
+    and the F clef is the F below (that's why it's a fifth below). 
+</p>
+
+<p>
+    Now let's write on this staff the three pitches that the clefs represent. 
+    We can write them all without ledger lines. 
+</p>
+
+<img width="400px" src="svgs/mega-all.svg" alt="megastafff with 3 notes">
+
+
+
+<p>
+    Now, instead of using all these staff lines,
+    we can use just 5 of them, with the appropriate clef. 
+</p>
+
+<div class="slideshow" style="margin-bottom: 300px;">
+    <img width="400px" class="active" src="svgs/mega-all.svg" alt="">
+    <img width="400px" src="svgs/mega-treble.svg" alt="">
+    <img width="400px" src="svgs/mega-alto.svg" alt="">
+    <img width="400px" src="svgs/mega-tenor.svg" alt="">
+    <img width="400px" src="svgs/mega-bass.svg" alt="">
+</div>
+
+
+
+
+
+<script>
+
+    function initSlideshow(slideshowContainer) {
+        let slideIndex = 0;
+        const slides = slideshowContainer.querySelectorAll('img');
+    
+        function showSlides() {
+            slideIndex++;
+            if (slideIndex >= slides.length) {
+                slideIndex = 0;
+            }
+    
+            for (let i = 0; i < slides.length; i++) {
+                slides[i].classList.remove('active');
+            }
+    
+            slides[slideIndex].classList.add('active');
+        }
+    
+        // Start the slideshow with an interval
+        setInterval(showSlides, 2000);
+    }
+    
+    // Initialize all slideshows on the page
+    document.querySelectorAll('.slideshow').forEach(initSlideshow);
+    
+</script>
+    
+<!-- 
+
+We can see that by changing clef what we are doing is moving the staff, 
+and we can still write the same 3 pitches, but we now have to use ledger lines. 
+
+
+[img]do re mi do la si do - in treble clef. 
+
+
+
+now imagine instead of 5 line staff we have many more. 
+
+then we can place all  3 clefs 
+
+
+cool visualisation with middle C 
+and the other note. 
+
+
+
+cool visualisation with a tune.  -->
+
+
+
