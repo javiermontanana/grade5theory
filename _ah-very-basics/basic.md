@@ -118,19 +118,11 @@ note number 8 will always be the same letter as note number 1.
 
 
 
-
-
-octaves registers...
-
-octave/registers
-what is an octave - interval
-where the letters repeat. 
-
-
-
-
-
 ## tones and semitones
+
+
+so far we have learnt about all the different
+
 
 Tone and semitone are ways to describe the distance between two notes. 
 You will learn a lot more about this in the chapter on intervals. 
