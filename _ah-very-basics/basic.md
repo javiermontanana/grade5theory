@@ -14,6 +14,8 @@ we will see what all those mean later.
 they indicate the duration
 
 
+Introduce pitch 
+
 The circle bit of the note is called the notehead,
 and we indicate the pitch by placing the notehead on a certain position on the staff or stave. 
 
@@ -57,7 +59,7 @@ by just putting them in for the notes where they are required.
 
 ## treble clef and note names 
 
-### treble 
+### treble clef
 
 The staff allows us to place higher and lower notes, 
 but we haven't said what any of those notes are, we just know that they are higher or lower
@@ -73,10 +75,11 @@ and it tells us that the note on the second staff-line is a G.
 
 It does this because the treble-clef sign represents a G, 
 and by placing the start of the loop on the second line, 
-it indicates that the note on the second line note is G. 
+it indicates that the note on the second line is G. 
 
 
 ### Notes names
+
 
 Notes are named after the letters A-G, 
 so there are 7 note-names. 
@@ -92,11 +95,17 @@ Now we can name all the notes on the stave in treble clef:
 and even ones on ledger lines 
 [picture]
 
+Note that in a different clef, the note-names for the notes on each staff-line 
+or space will be different. 
+You will learn more about this in the chapter on clefs and registers. 
+
 
 ## middle C 
 
 The C on the first ledger line below the staff in treble clef is known as middle C. 
 This is because it is near the middle of the piano keyboard. 
+
+[picture] piano keyboard with middle C 
 
 
 ## octaves
@@ -107,21 +116,44 @@ As you can see, the next C above middle C is on the 3rd space.
 If we start counting up from middle C, the next C is note number 8. 
 This is called a distance (or interval) of an octave. 
 
-(When we count distances between notes,
-how many notes apart they are,
+(When we count intervals,
 we will always count both the bottom and top one.)
 
+An interval is just the way we describe the distance between two picthes. 
+There is a whole chapter on intervals, where you will learn to fully describe 
+any interval, but for now you should know that the interval between a C and the next C 
+is an octave. 
+
+Same for any other letter-name. 
 As we have 7 note-names, wherever we start counting from, 
 note number 8 will always be the same letter as note number 1. 
 
 
-
-
-
 ## tones and semitones
 
+So far we have learnt about all the different notes and their different names. 
 
-so far we have learnt about all the different
+We know that when two notes are next each other on the staff, 
+we say they are one step away. 
+But not all the steps are the same size. 
+Some of the neighbours are closer than others. 
+
+The bigger steps we call a tone, and the smaller steps a semitone. 
+A step of a semitone is half the size of a tone. 
+
+
+
+
+
+
+
+piano white keys
+
+
+
+
+
+
 
 
 Tone and semitone are ways to describe the distance between two notes. 
@@ -131,10 +163,37 @@ But what you need to know here is that when two notes are next to each other,
 they are either a tone or a semitone apart. 
 
 
+
+### sharps and flats
+
 Sharps flat naturals and what they do. (SEMITONES)
 double flats and shaprs.
 
-### key signatures
+
+piano black keys
+
+
+the smallest unit of pitch is the semitone 
+
+
+
+## enharmonic equivalents
+
+
+
+
+## chromatic scales
+
+
+
+
+
+
+## key signatures
+
+know what key signatures are, 
+but not essential, 
+we cover this in the chapter on keys and scales
 
 
 
@@ -150,10 +209,6 @@ double flats and shaprs.
 
 
 
-## enharmonic equivalents
-
-
-## chromatic scales
 
 
 
@@ -169,7 +224,7 @@ in the last section, we will be looking at rhythm and time
 ## rhythm 
 
 note values
-and rests!!!
+and rests!
 
 time signatures
 
