@@ -5,25 +5,21 @@
 what is a note
 a note is a sound that has a certain duration and a certain pitch. 
 
+notes look like this:
+[picture] crotchet, quavers, minim, semibreve ....
 
+We will see what all those mean later. 
+Those different kinds of notes indicate the duration of the note. 
 
-
-notes look like this .... 
-
-we will see what all those mean later. 
-they indicate the duration
-
-
-Introduce pitch 
-
+Pitch refers to how high or low a note is.
 The circle bit of the note is called the notehead,
-and we indicate the pitch by placing the notehead on a certain position on the staff or stave. 
-
+and we indicate the pitch by placing the notehead on a certain position on the staff. 
 
 ## Staff
 
-the staff is consists of 5 horizontal lines, and it is there so that we can write notes in it
+The staff consists of 5 horizontal lines, and it is there so that we can write notes in it
 allowing us to see the position and thus the pitch. 
+[picture] higher note - lower note 
 
 On the staff, notes can be on a line
 [picture]labelled 1st line, 2nd line, ...
@@ -34,14 +30,13 @@ or on a space
 
 
 here are some notes on a staff 
-
 . . . . . . . . . . . .
 
 In the above example, each note is one step higher than the previous one. 
 (we will see exactly by we mean by one step higher a bit later.)
 
 
-### ledger lines 
+### ledger lines (possibly after treble chelf and note names)
 
 As we can see in the previous example, the 5-line staff allows us to write a few notes, 
 but eventually we run out of space.  
@@ -100,13 +95,14 @@ or space will be different.
 You will learn more about this in the chapter on clefs and registers. 
 
 
+------------------------------------------
+
 ## middle C 
 
 The C on the first ledger line below the staff in treble clef is known as middle C. 
 This is because it is near the middle of the piano keyboard. 
 
 [picture] piano keyboard with middle C 
-
 
 
 ## octaves
@@ -128,6 +124,8 @@ is an octave.
 Same for any other letter-name. 
 As we have 7 note-names, wherever we start counting from, 
 note number 8 will always be the same letter as note number 1. 
+
+---------------------------------------------
 
 
 ## tones and semitones
@@ -169,7 +167,6 @@ There is a black key between all the other pairs of white keys.
 }
 
 
-
 So from the piano keyboard we see that there are some notes in between some of 
 the white keys. 
 That's where sharps and flats come in. 
@@ -208,10 +205,13 @@ Here is the keyboard with *all* the keys labelled:
 
 (need to know  what a bar is!!!)
 
+When we encounter an accidental in front of a note, 
+it affects that note and any other notes of the same pitch which come after it in the same bar. 
 
+[example] this is an f shar - this is also an f sharp. 
 
-
-
+If we want the second f not to be sharp, we need to put a natural in front of it.
+[example]
 
 
 ### key signatures
@@ -224,8 +224,11 @@ In these cases we will usually use something called a key signature.
 A key signature is a set of sharps or flats at the beginning of the staff, 
 placed right after the clef. 
 
+[examples]1 and 2 sharps, 1 flat....
+
 A key signature with an F sharp means that all the Fs will automatically be sharp, 
 unless otherwise stated (eg by a natural in front of the note.) 
+[example]
 
 There are certain rules about how key signatures work, 
 and you will learn more about them in the chapter on keys and scales. 
@@ -241,41 +244,95 @@ They look like this:
 [picture]
 
 
-
-
-
-
-
-
-the smallest unit of pitch is the semitone 
-
-
-
 ## enharmonic equivalents
 
+We can see from the picture of the labelled piano keyboard 
+that the black keys can be named in two different ways, 
+eg F sharp and G flat. 
+
+You mustn't think that those are "the same note" because in most cases, 
+it won't be correct to substitute one for the other, but they do represent the same pitch. 
+
+We say that they are **enharmonically equivalent**. 
+
+You can think of this a two ways of spelling the same pitch, 
+but remember that you're not just allowed to substitute one for the other in the theory exam. 
+In fact for the whole grade 5 theory exam, except for any questions about enharmonic equivalents 
+and chromatic scales (next section) you can just forget about enharmonic equivalents. 
 
 
+By the way, it is not just the black key-notes that can be spelt different ways. 
+It is true of *any* pitch. 
+For example:
+C is also B#,
+A is also G double sharp and B double flat. 
 
-## chromatic scales
-
-
-
-
-
-
-## key signatures
-
-know what key signatures are, 
-but not essential, 
-we cover this in the chapter on keys and scales
-
-
+------------------------------------------------------------------
 
 ## Scales
+
+A scale is a set of notes ordered so that it goes up one step at a time,
+or down one step at a time. 
+
+
+define scale
+
+
 
 ### the c major scale
 
 
+----------------------------------------------------------------------
+
+## chromatic scales
+
+A chromatic scale is one where we go up a semitone each note.
+To write a chromatic scale we need to use a lot of sharps and flats, 
+and there are many valid and correct ways of wrtiting a chromatic scale. 
+There will be notes which we can spell different ways using enharmonic equivalents. 
+
+You can also think of a chromatic scale as one where you go through all the keys in the 
+piano keyboard without missing any. 
+
+Let's try to write an example of a chromatic scale starting on E. 
+The first note will be E and the last note will be an E one octave higher
+
+[picture] E E'
+
+The second note has to be a semitone higher, so I will write an F.
+[picture]
+
+for the third note an F sharp and for the 4rth a G. 
+[picture]
+
+I will fill in the rest of the scale like this: 
+[picture]E,F,F#,G,G#,A,Bb,B,C,C#,D,D#,E
+
+You can check that every note in my scale is a semitone higher than the previous one. 
+A chromatic scale should have. 12 notes plus the octave of the first one. 
+
+
+In the grade 5 theory exam, there are also a couple of rules that chromatic scales need 
+to follow. Other wise they are considered incorrect: 
+
+There must be at least one note on each staff position. 
+There must not be more than 2 notes on each staff position. 
+
+You can check that my chromatic scale above also satisfies these. 
+But here are a couple of examples that don't:
+
+[ecample] E E# Gb ....
+in this example, we have played all the piano keys but,
+We have skipped the F staff position
+
+[example] ... G Ab A A# ....
+here we have 3 notes on the A staff position. 
+
+
+Here are other ways of writing the chromatic scale starting on E 
+which *do* satisfy all the rules and are all correct. 
+
+[examples]
 
 
 
@@ -285,13 +342,10 @@ we cover this in the chapter on keys and scales
 
 
 
+------------------------------------------------------------
 
-
-
-
-You have learnt everything you need to do with pitch for this chapter, 
-
-in the last section, we will be looking at rhythm and time 
+You have learnt everything you need to do with pitch for this chapter.
+In the last section, we will be looking at rhythm and time 
 
 
 
