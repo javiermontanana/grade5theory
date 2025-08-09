@@ -1,7 +1,5 @@
 
 
-
-
 ## notes 
 
 what is a note
@@ -110,6 +108,8 @@ This is because it is near the middle of the piano keyboard.
 
 ## octaves
 
+(special relationship across octaves)
+
 As you can see, the next C above middle C is on the 3rd space. 
 [picture] C C'
 
@@ -169,13 +169,12 @@ There is a black key between all the other pairs of white keys.
     nomenclature: accidentals? must define i think...
 }
 
-
 So from the piano keyboard we see that there are some notes in between some of 
 the white keys. 
 That's where sharps and flats come in. 
 
 We can raise or lower the notes by using the sharp or flat symbol 
-*in front* of the note. 
+*in front* of the note. These symbols are known as accidentals. 
 
 A sharp looks like this: 
 [picture]
@@ -186,7 +185,7 @@ A flat looks like this:
 and lowers the pitch of a note by one semitone. 
 
 
-There is another sign called a natural which is used to indicate 
+There is another accidental called a natural which is used to indicate 
 that a note is *not* sharp or flat. We will see when this is required later. 
 
 A natural looks like this: 
@@ -253,16 +252,11 @@ We can see from the picture of the labelled piano keyboard
 that the black keys can be named in two different ways, 
 eg F sharp and G flat. 
 
-You mustn't think that those are "the same note" because in most cases, 
-it won't be correct to substitute one for the other, but they do represent the same pitch. 
-
 We say that they are **enharmonically equivalent**. 
 
-You can think of this a two ways of spelling the same pitch, 
-but remember that you're not just allowed to substitute one for the other in the theory exam. 
-In fact for the whole grade 5 theory exam, except for any questions about enharmonic equivalents 
-and chromatic scales (next section) you can just forget about enharmonic equivalents. 
-
+You can think of this a two ways of spelling the same pitch. 
+This doesn't mean you can just substitute one for the other, though. 
+In most cases that will give you a wrong answer in the theory exam. 
 
 By the way, it is not just the black key-notes that can be spelt different ways. 
 It is true of *any* pitch. 
@@ -270,7 +264,9 @@ For example:
 C is also B#,
 A is also G double sharp and B double flat. 
 
+
 ------------------------------------------------------------------
+
 
 ## Scales
 
@@ -280,7 +276,7 @@ or down one step at a time.
 In the chapter on keys and scales you will learn about many different scales. 
 But for now you should first know about the C major scale.
 
-The C major scale is the onne which uses only natural notes
+The C major scale is the one which uses only natural notes
 (the white keys of the piano).
 
 
@@ -344,7 +340,7 @@ A chromatic scale should have. 12 notes plus the octave of the first one.
 
 
 In the grade 5 theory exam, there are also a couple of rules that chromatic scales need 
-to follow. Other wise they are considered incorrect: 
+to follow. Otherwise they are considered incorrect: 
 
 There must be at least one note on each staff position. 
 There must not be more than 2 notes on each staff position. 

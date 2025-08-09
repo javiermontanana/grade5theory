@@ -28,6 +28,9 @@ collections:
   # 02-int-scales-keys:
   #   output: false
   #   name: 2) Intervals, Scales, and Keys
+  00-very-basics:
+    output: true
+    name: 0) The basics
   aa-intervals:
     output: true
     name: 1) Intervals
