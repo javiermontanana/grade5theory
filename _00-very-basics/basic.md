@@ -1,5 +1,9 @@
 
 
+# Writing notes
+
+
+
 ## notes 
 
 what is a note
