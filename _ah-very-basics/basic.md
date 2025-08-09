@@ -1,5 +1,7 @@
 
 
+
+
 ## notes 
 
 what is a note
@@ -36,7 +38,7 @@ In the above example, each note is one step higher than the previous one.
 (we will see exactly by we mean by one step higher a bit later.)
 
 
-### ledger lines (possibly after treble chelf and note names)
+### ledger lines (possibly after treble clef and note names)
 
 As we can see in the previous example, the 5-line staff allows us to write a few notes, 
 but eventually we run out of space.  
@@ -96,6 +98,7 @@ You will learn more about this in the chapter on clefs and registers.
 
 
 ------------------------------------------
+(possibly this section later?)
 
 ## middle C 
 
@@ -274,12 +277,40 @@ A is also G double sharp and B double flat.
 A scale is a set of notes ordered so that it goes up one step at a time,
 or down one step at a time. 
 
+In the chapter on keys and scales you will learn about many different scales. 
+But for now you should first know about the C major scale.
 
-define scale
-
+The C major scale is the onne which uses only natural notes
+(the white keys of the piano).
 
 
 ### the c major scale
+
+A C major scale is formed by starting on the note C and going up through all the natural notes 
+(all the white keys on a piano) until we get to the next C and octave higher. 
+
+Here is a C major scale.
+[example]
+
+This is also a C major scale, but I have written it an octave higher.
+[ecample]
+
+We can also write a C major scale in more than one octave. 
+Here it is in 2 octaves 
+[example]
+
+Remember what we learnt earlier about tones and semitones. 
+The semitones are between E and F and between B and C. 
+All the other steps are tones. 
+
+Here is the scale again with the semitones highlighted. 
+[example]
+
+and again the same thing in 2 octaves
+[example]
+
+You must become very familiar with the C major scale 
+as it will help you understand many things in later chapters. 
 
 
 ----------------------------------------------------------------------
