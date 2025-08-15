@@ -580,9 +580,13 @@ This means that now we will fit just two quavers which will take up the space of
 
 [example]6/8 dtcr dup q q
 
-Jus 
+Just like, with triplets, in a duplet of quavers, we can incude other note values. 
 
+[example]2/4 cr q sem sem
 
+The  example above can be written as:
+
+[example]6/8 dtcr dup q sem sem
 
 
 # other tuplets 
@@ -643,8 +647,25 @@ sep
 
 # irregular time signatures 
 
+All of the time signatures we saw earlier were regular. 
+These were the ones with top numbers 2, 3, 4, 6, 9, 12.
 
+Time signatures with any other number as a top number are known as irregular. 
 
+Here, the very first thing we learnt about what the time signature means still applies: 
+the time signature tells us how many of what fits in each bar. 
 
+For example, 7/4 has 7 crotchets. 5/8 has 5 quavers. 
 
+But that is as far as we can go.
+We don't have rules that tell us anything about beats in the bar. 
+The whole point is that in irregular time signatures, 
+the notes can be organised into beats in many different ways, 
+that is why they are called irregular. 
+
+A 5/8 bar can be 
+2 quavers + 3 quavers, 
+or 3 quavers + 2 quavers,
+or 1 quaver + 2 quavers + 2 quavers, 
+etc....
 
