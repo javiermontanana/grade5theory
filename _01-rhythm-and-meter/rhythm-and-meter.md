@@ -533,19 +533,102 @@ becomes
 [exmaple] 2/4 ttied
 
 
-In the next example, we will have shorter note values, so you can't use the ties to hekp you. 
+In the next example, we will have shorter note values, so you can't use the ties to help you. 
+
+Let's try to write the following in 2/4: 
+
+[example] 6/8 nice cup of tea - sicilienne 
+
+Here in the first beat, we have a note on each subdivision, 
+plus a note half way through the second subdivision. 
+
+We can achieve this in 2/4 with a triplet and 2 semiquavers in the middle bit of the triplet. 
+
+Basically, in each case, we can keep the note values the same, 
+and just stick a triplet on top, 
+and that will take care of it. 
+
+[exmaple] 2/4 nice cup of tea - sicilienne. 
+
+In all these cases, we would call those a triplet of quavers, 
+because we are fitting in the space of 2 quavers (or a crotchet) 
+notes whcih have a total value of 3 quavers, 
+even though the notes on the page are not 3 quavers. 
 
 
+### duplets 
 
+Just like a triplet allows us to fit 3  in the space of 2, 
+a duplet allows us to fit 2 in the space of 3. 
 
+This is going to be very useful when converting from a simple to a compound time signature. 
 
+Let's look at an example. 
 
+[example]2/4 cr q q 
 
+In the second beat, we have 2 notes each taking up half the beat. 
+
+Let's try to write that in 6/8.
+
+For the first beat, we just need one note taking up the whole beat. 
+That will be a dotted crotchet. 
+For the second beat we need two notes, each taking up half the beat. 
+
+So what we will do is put a duplet over the second beat. 
+This means that now we will fit just two quavers which will take up the space of 3. 
+
+[example]6/8 dtcr dup q q
+
+Jus 
 
 
 
 
 # other tuplets 
+
+## more on triplets and duplets
+
+In the previous section, we saw  examples of triplets and duplets 
+where they were used to divide a single beat into 2 or 3 parts. 
+
+But this is not the only use of triplets and duplets. 
+Remember the general meaning: 
+a triplet fits 3 in the space of 2.
+a duplet fits 2 in the space of 3. 
+
+We can use this definition and have triplets or duplets with any note values. 
+
+For exmaple, a 2/2 bar is 2 crotchets long. 
+I could have a triplet of crotchets, allowing me to fit 3 crotchets into a bar. 
+
+
+## other tuplets
+
+Just like triplets and duplets there are many other kinds of **tuplets** 
+which allow us to fit a certain number of notes 
+in the space that would normally correspond to another number. 
+
+[table] maybe table with pictures
+triplets fit 3 in the space of 2
+duplets fit 2 in the space of 3
+sextuplets fit 6 in the space of 4
+quadruplets fit 4 in the space of 6
+quintuplets fit  5 in the space of 4
+septuplets fit 7 in the space of 4
+
+
+And we can keep going. 
+Basically, if you want 13 or however many equal notes to fit into a crotchet, 
+you can just stick a 13 with a bracket on top...
+
+in practice you do not have to memorise the table above. 
+It is useful to memorise the meaning of triplet and duplet, 
+but in all other cases, you will be able to figure out how long each group takes from the context. 
+
+
+
+
 
 triplets
 duplets
