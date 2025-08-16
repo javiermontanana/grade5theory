@@ -31,9 +31,9 @@ collections:
   00-very-basics:
     output: true
     name: 0) The basics
-  # 01-rhythm-and-meter:
-  #   output: true
-  #   name: A) Rhytm and Meter
+  01-rhythm-and-meter:
+    output: true
+    name: A) Rhytm and Meter
   aa-intervals:
     output: true
     name: 1) Intervals
