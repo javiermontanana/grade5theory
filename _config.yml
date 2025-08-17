@@ -28,9 +28,9 @@ collections:
   # 02-int-scales-keys:
   #   output: false
   #   name: 2) Intervals, Scales, and Keys
-  00-very-basics:
-    output: true
-    name: 0) The basics
+  # 00-very-basics:
+  #   output: true
+  #   name: The basics
   # 01-rhythm-and-meter:
   #   output: true
   #   name: A) Rhytm and Meter
