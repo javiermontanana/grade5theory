@@ -25,6 +25,8 @@ The staff consists of 5 horizontal lines, and it is there so that we can write n
 allowing us to see the position and thus the pitch. 
 [picture] higher note - lower note 
 
+
+
 On the staff, notes can be on a line
 [picture]labelled 1st line, 2nd line, ...
 
@@ -64,7 +66,7 @@ but we haven't said what any of those notes are, we just know that they are high
 
 In fact, we can't say what the notes are until we have something called a clef. 
 
-The most common clef, and the only one we will learn about in this chapter is treble clef. 
+The most common clef, is treble clef. 
 (in the chapter on clefs, you will learn exactly how clefs work, 
 and you will learn about other clefs.)
 
@@ -76,6 +78,8 @@ and it tells us that the note on the second staff-line is a G.
 It does this because the treble-clef sign represents a G, 
 and by placing the start of the loop on the second line, 
 it indicates that the note on the second line is G. 
+
+
 
 
 ### Notes names
@@ -94,13 +98,18 @@ Now we can name all the notes on the stave in treble clef:
 and even ones on ledger lines 
 [picture]
 
-Note that in a different clef, the note-names for the notes on each staff-line 
+As we will see in the next section, in a different clef, 
+the note-names for the notes on each staff-line 
 or space will be different. 
-You will learn more about this in the chapter on clefs and registers. 
+
 
 
 ------------------------------------------
 (possibly this section later?)
+
+
+
+
 
 ## middle C 
 
@@ -134,12 +143,11 @@ note number 8 will always be the same letter as note number 1.
 
 ---------------------------------------------
 
-
 ## tones and semitones
 
 So far, we have learnt about all the different notes and their names. 
 
-We know that when two notes are next each other on the staff, 
+We know that when two notes are next to each other on the staff, 
 we say they are one step away. 
 But not all the steps are the same size. 
 Some of the neighbours are closer than others. 
@@ -280,7 +288,7 @@ or down one step at a time.
 In the chapter on keys and scales you will learn about many different scales. 
 But for now you should first know about the C major scale.
 
-The C major scale is the one which uses only natural notes
+The C major scale uses only natural notes
 (the white keys of the piano).
 
 
