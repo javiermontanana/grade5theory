@@ -6,6 +6,9 @@
 
 
 
+
+
+
 ### Trill 
 
 note above: 
@@ -22,7 +25,8 @@ A mordent is like a one-turn trill.
 So we will go from the main to the upper note, then back to the main note. 
 
 
-For mordents, we will distinguish between 2 types: 
+But for mordents, we will distinguish between 2 types: 
+
 Upper mordent and lower mordent. 
 
 
@@ -30,7 +34,19 @@ Upper mordent and lower mordent.
 
 ### Turn
 
+A turn is indicated by this sign: 
 
+A turn takes us above and below the main note. 
+
+the notes follow the shape of the sign: 
+
+
+
+
+
+## Grace notes
+
+Grace notes are notes written in small print. 
 
 
 ### Acciaccatura
