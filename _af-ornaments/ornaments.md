@@ -38,8 +38,12 @@ A turn is indicated by this sign:
 
 A turn takes us above and below the main note. 
 
-the notes follow the shape of the sign: 
+The notes follow the shape of the sign. 
+This may help you remember how it is performed. 
 
+
+The rhythm may vary - 
+Sometimes, the the first (main) note is some
 
 
 
