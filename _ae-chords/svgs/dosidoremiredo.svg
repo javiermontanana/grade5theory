@@ -5,8 +5,31 @@
    viewBox="0 0 1491.3584 294.84121"
    version="1.2"
    id="svg156"
+   sodipodi:docname="dosidoremiredo.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.1127963"
+     inkscape:cx="149.89801"
+     inkscape:cy="17.384766"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg156" />
   <defs
      id="defs156" />
   <title
@@ -61,7 +84,8 @@
   <path
      class="MeasureNumber"
      d="m 75.798213,-1.7125575e-4 c -2.13,0.23999999575 -4.72,0.40999999575 -6.96,0.40999999575 -1.12,0 -2.4,-0.05 -3.84,-0.12 -1.33,-0.08 -2.64,-0.16 -4,-0.24 l -1,-0.0499999958 -3.88,8.44000005579 1.47,0.49 0.97,-1.61 c 1.88,-3.11 2.75,-3.55 6.83,-3.52 h 6.77 l -4.36,6.2500002 c -5.13,7.19 -5.13,7.19 -7.08,10.39 -1.77,2.85 -2.49,4.6 -2.49,6.03 0,1.41 0.89,2.28 2.28,2.28 1.49,0 2.24,-0.71 2.77,-2.59 2,-7.52 3.2,-10.12 8.75,-19.1100002 l 3.77,-5.84 V -1.7125575e-4"
-     id="path53" />
+     id="path53"
+     style="fill:#000000;fill-opacity:0" />
   <polyline
      class="BarLine"
      fill="none"
@@ -232,12 +256,12 @@
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.83465;stroke-linecap:square;stroke-opacity:0;paint-order:stroke fill markers"
      x="239.68974"
-     y="292.45389"
+     y="284.95389"
      id="text194-1-6-62-9-3-5"><tspan
        id="tspan194-5-03-9-3-4-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;fill-opacity:1;stroke-width:2.83465"
        x="239.68974"
-       y="292.45389">I</tspan></text>
+       y="284.95389">I</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.83465;stroke-linecap:square;stroke-opacity:0;paint-order:stroke fill markers"
@@ -260,12 +284,13 @@
        y="262.45389">I</tspan></text>
   <path
      style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2.83465;stroke-linecap:square;stroke-dasharray:none;paint-order:stroke fill markers"
-     d="m 286.29672,275.00533 h 215.1088"
+     d="m 286.29672,267.50533 h 215.1088"
      id="path158" />
   <path
      style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2.83465;stroke-linecap:square;stroke-dasharray:none;paint-order:stroke fill markers"
-     d="m 656.76182,257.07953 191.2078,-5.9752"
-     id="path159" />
+     d="m 646.18438,262.25072 215.88848,-0.0989"
+     id="path159"
+     sodipodi:nodetypes="cc" />
   <ellipse
      style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2.83465;stroke-linecap:square;stroke-dasharray:none;paint-order:stroke fill markers"
      id="path160"

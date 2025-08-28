@@ -5,8 +5,31 @@
    viewBox="0 0 2645.965 469.5561"
    version="1.2"
    id="svg327"
+   sodipodi:docname="Cmaj-prgression-labelled-fb.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.5779819"
+     inkscape:cx="493.99105"
+     inkscape:cy="62.6459"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg327" />
   <defs
      id="defs327" />
   <title
@@ -106,7 +129,8 @@
   <path
      class="MeasureNumber"
      d="m 109.68178,14.479998 c -1,4.64 -3.687,12.6 -9.406,12.6 -1.155994,0 -1.905994,-0.49 -1.905994,-1.21 0,-0.28 0.078,-0.39 0.39,-0.87 0.407,-0.52 0.61,-1 0.61,-1.56 0,-1.32 -1.047,-2.32 -2.407,-2.32 -1.593,0 -2.718,1.19 -2.718,2.96 0,2.72 2.562,4.67 6.124994,4.67 8.75,0 14.343,-11.19 14.343,-18.7999995 0,-6.23 -3,-9.9500000086989 -7.953,-9.9500000086989 -5.953,0 -10.389994,5.4800000086989 -10.389994,11.1999995086989 0,3.8 2.906,6.67 6.796994,6.67 2.64,0 4.671,-1.07 6.515,-3.39 m -2.953,-12.7899995 c 2.547,0 4.188,2.03 4.188,5.23 0,4.9499995 -2.719,8.5899995 -6.391,8.5899995 -2.531,0 -3.922,-1.71 -3.922,-4.71 0,-3.5999995 1.719,-9.1099995 6.125,-9.1099995"
-     id="path64-3" />
+     id="path64-3"
+     style="fill:#000000;fill-opacity:0" />
   <polyline
      class="BarLine"
      fill="none"

@@ -5,8 +5,31 @@
    viewBox="0 0 1379.5026 293.22329"
    version="1.2"
    id="svg166"
+   sodipodi:docname="domiresido-harm.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.0793132"
+     inkscape:cx="96.612451"
+     inkscape:cy="28.415427"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg166" />
   <defs
      id="defs166" />
   <title
@@ -61,7 +84,8 @@
   <path
      class="MeasureNumber"
      d="m 82.092298,13.600109 c 1.89,-0.6 2.64,-0.93 3.61,-1.57 1.88,-1.23 3.03,-3.4299995 3.03,-5.6699995 0,-3.79 -3.03,-6.36000001518 -7.51,-6.36000001518 -4.36,0 -8.05,2.72000001518 -8.05,6.00000001518 0,1.64 1,2.77 2.53,2.77 1.32,0 2.28,-0.97 2.28,-2.28 0,-0.69 -0.2,-1.17 -0.84,-1.8 -0.41,-0.37 -0.56,-0.64 -0.56,-0.92 0,-0.97 2,-1.97 3.87,-1.97 2.69,0 4.28,1.48 4.28,3.97 0,3.55 -2.51,6.8999995 -5.2,6.8999995 -0.11,0 -0.47,-0.03 -0.91,-0.07 -1.17,-0.08 -1.17,-0.08 -1.4,-0.08 -0.88,0 -1.36,0.4 -1.36,1.12 0,0.64 0.44,1.03 1.16,1.03 0.2,0 0.48,-0.03 0.79,-0.07 0.56,-0.11 1.17,-0.16 1.53,-0.16 1.88,0 3.16,1.69 3.16,4.16 0,4.32 -2.13,8.48 -6.97,8.48 -2.23,0 -4.16,-1.12 -4.16,-2.41 0,-0.43 0.18,-0.59 0.8,-0.87 1.17,-0.52 1.64,-1.23 1.64,-2.31 0,-1.41 -1.11,-2.49 -2.54,-2.49 -1.72,0 -2.85,1.36 -2.85,3.44 0,3.88 2.95,6.31 7.75,6.31 6.05,0 10.64,-4.03 10.64,-9.39 0,-3.12 -1.92,-4.87 -4.72,-5.76"
-     id="path59" />
+     id="path59"
+     style="fill:#000000;fill-opacity:0" />
   <polyline
      class="BarLine"
      fill="none"
@@ -207,6 +231,7 @@
      id="path167" />
   <path
      style="fill:#000000;stroke:#000000;stroke-width:2.83465;stroke-linecap:square;paint-order:stroke fill markers"
-     d="m 314.75959,261.75181 177.8312,1.7434"
-     id="path168" />
+     d="m 314.75959,262.2046 177.8312,0.53596"
+     id="path168"
+     sodipodi:nodetypes="cc" />
 </svg>

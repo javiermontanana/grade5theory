@@ -5,7 +5,7 @@
    viewBox="0 0 1821.3829 311.20932"
    version="1.2"
    id="svg111"
-   sodipodi:docname="basics1-1.svg"
+   sodipodi:docname="notes-on-all-staff-positions-treble-clef.svg"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="1.5166097"
-     inkscape:cx="299.02223"
-     inkscape:cy="376.16798"
+     inkscape:zoom="3.0332194"
+     inkscape:cx="124.78491"
+     inkscape:cy="-13.681833"
      inkscape:window-width="1920"
      inkscape:window-height="1111"
      inkscape:window-x="-9"
@@ -96,7 +96,8 @@
   <path
      class="MeasureNumber"
      d="m 16.359955,1.6855174e-5 h -1.16 C 12.999955,1.6410168 8.769925,3.0310168 5.879925,3.0310168 l -0.47,1.766 h 2.75 c 2.44003,0 2.72003,0.078 2.72003,0.797 0,0.359 0,0.359 -0.39,1.797 L 6.199925,23.391017 c -0.53,2 -0.56,2.125 -0.92,2.484 -0.4,0.391 -1.25,0.516 -3.36,0.562 H 0.19992498 l -0.199999999068,1.875 H 14.799955 l 0.23,-1.875 h -2.15 c -2.6,0 -3.16003,-0.203 -3.16003,-1.078 0,-0.281 0.16,-1.203 0.36,-1.968 L 16.359955,1.6855174e-5"
-     id="path46" />
+     id="path46"
+     style="fill:#000000;fill-opacity:0" />
   <polyline
      class="BarLine"
      fill="none"
@@ -159,7 +160,8 @@
   <path
      class="MeasureNumber"
      d="m 1821.3829,282.89732 h -1.16 c -2.2,1.641 -6.43,3.031 -9.32,3.031 l -0.47,1.766 h 2.75 c 2.44,0 2.72,0.078 2.72,0.797 0,0.359 0,0.359 -0.39,1.797 l -4.29,16 c -0.53,2 -0.56,2.125 -0.92,2.484 -0.4,0.391 -1.25,0.516 -3.36,0.562 h -1.72 l -0.2,1.875 h 14.8 l 0.23,-1.875 h -2.15 c -2.6,0 -3.16,-0.203 -3.16,-1.078 0,-0.281 0.16,-1.203 0.36,-1.968 l 6.28,-23.391"
-     id="path46-4" />
+     id="path46-4"
+     style="fill:#000000;fill-opacity:0" />
   <text
      xml:space="preserve"
      style="font-size:79.9999px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.41732;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"

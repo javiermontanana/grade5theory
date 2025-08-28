@@ -5,7 +5,7 @@
    viewBox="0 0 808.27827 166.69504"
    version="1.2"
    id="svg164"
-   sodipodi:docname="page1 exemples exce beams-Piano-1.svg"
+   sodipodi:docname="notes.svg"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="1.2382898"
-     inkscape:cx="248.32635"
-     inkscape:cy="283.85923"
+     inkscape:zoom="4.9531592"
+     inkscape:cx="111.74686"
+     inkscape:cy="65.311852"
      inkscape:window-width="1920"
      inkscape:window-height="1111"
      inkscape:window-x="-9"
@@ -113,10 +113,10 @@
      class="NoteDot"
      d="m -1.2319623e-5,4.9599985 c 0,2.774497 2.185500019623,4.959997 4.960000019623,4.959997 2.7745,0 4.96,-2.1855 4.96,-4.959997 0,-2.7745 -2.1855,-4.9599999713251 -4.96,-4.9599999713251 -2.7745,0 -4.960000019623,2.1854999713251 -4.960000019623,4.9599999713251"
      id="path162-9-7-0"
-     style="stroke-width:0.992" />
+     style="stroke-width:0.992;fill:#000000;fill-opacity:0" />
   <path
      class="NoteDot"
      d="m 798.35829,161.73505 c 0,2.7745 2.1855,4.96 4.96,4.96 2.7745,0 4.96,-2.1855 4.96,-4.96 0,-2.7745 -2.1855,-4.96 -4.96,-4.96 -2.7745,0 -4.96,2.1855 -4.96,4.96"
      id="path162-9-7-0-9"
-     style="stroke-width:0.992" />
+     style="stroke-width:0.992;fill:#000000;fill-opacity:0" />
 </svg>

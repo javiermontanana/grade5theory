@@ -5,7 +5,8 @@
    viewBox="0 0 320 218.23357"
    version="1.2"
    id="svg194"
-   sodipodi:docname="chords 1-3-1.svg"
+   sodipodi:docname="Cmaj-triad.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,7 +22,16 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:document-units="mm">
+     inkscape:document-units="mm"
+     inkscape:zoom="2.5850223"
+     inkscape:cx="141.00459"
+     inkscape:cy="75.24113"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg194">
     <inkscape:page
        x="0"
        y="0"
@@ -83,7 +93,8 @@
   <path
      class="MeasureNumber"
      d="m 19.38999,19.874986 -1.03,1.843 c -1.61,2.766 -1.92,3 -3.97,3.032 H 5.1199902 c 0.96,-1.266 2.72,-2.75 5.9099998,-5 5.28,-3.625 5.64,-3.875 6.77,-4.75 3.2,-2.485 4.51,-4.844 4.51,-7.9999997 0,-4.204 -3.11,-6.999999990022 -7.72,-6.999999990022 -5.1099998,0 -9.5399998,3.764999990022 -9.5399998,8.124999990022 0,2.2339997 1.18,3.6709997 3.1,3.6709997 1.44,0 2.5699998,-1.078 2.5699998,-2.5619997 0,-1.031 -0.52,-1.719 -1.8499998,-2.438 -0.95,-0.484 -1.11,-0.671 -1.11,-1.156 0,-1.719 2.9599998,-3.64 5.6799998,-3.64 2.79,0 4.68,1.875 4.68,4.687 0,2.984 -1.32,5.1879997 -4.92,8.3129997 -10.6399998,9.234 -12.24999989,10.921 -12.60999989,13.156 H 17.74999 l 3.09,-7.719 -1.45,-0.562"
-     id="path61" />
+     id="path61"
+     style="fill:#000000;fill-opacity:0" />
   <polyline
      class="BarLine"
      fill="none"

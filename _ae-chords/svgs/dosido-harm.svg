@@ -5,8 +5,31 @@
    viewBox="0 0 1349.1875 277.83381"
    version="1.2"
    id="svg156"
+   sodipodi:docname="dosido-harm.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="5.0558207"
+     inkscape:cx="71.897328"
+     inkscape:cy="37.085967"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg156" />
   <defs
      id="defs156" />
   <title
@@ -61,7 +84,8 @@
   <path
      class="MeasureNumber"
      d="m 51.777413,13.600208 c 1.89,-0.6 2.64,-0.93 3.61,-1.57 1.88,-1.23 3.03,-3.4299996 3.03,-5.6699996 0,-3.79 -3.03,-6.36000006654 -7.51,-6.36000006654 -4.36,0 -8.05,2.72000006654 -8.05,6.00000006654 0,1.64 1,2.77 2.53,2.77 1.31,0 2.28,-0.97 2.28,-2.28 0,-0.69 -0.2,-1.17 -0.84,-1.8 -0.41,-0.37 -0.56,-0.64 -0.56,-0.92 0,-0.97 2,-1.97 3.87,-1.97 2.69,0 4.28,1.48 4.28,3.97 0,3.55 -2.51,6.8999996 -5.2,6.8999996 -0.11,0 -0.47,-0.03 -0.91,-0.07 -1.17,-0.08 -1.17,-0.08 -1.4,-0.08 -0.88,0 -1.36,0.4 -1.36,1.12 0,0.64 0.44,1.03 1.15,1.03 0.21,0 0.49,-0.03 0.8,-0.07 0.56,-0.11 1.17,-0.16 1.53,-0.16 1.88,0 3.16,1.69 3.16,4.16 0,4.32 -2.13,8.48 -6.97,8.48 -2.23,0 -4.16,-1.12 -4.16,-2.41 0,-0.43 0.18,-0.59 0.8,-0.87 1.17,-0.52 1.64,-1.23 1.64,-2.31 0,-1.41 -1.11,-2.49 -2.55,-2.49 -1.71,0 -2.84,1.36 -2.84,3.44 0,3.88 2.95,6.31 7.75,6.31 6.05,0 10.64,-4.03 10.64,-9.39 0,-3.12 -1.92,-4.87 -4.72,-5.76"
-     id="path61" />
+     id="path61"
+     style="fill:#000000;fill-opacity:0" />
   <polyline
      class="BarLine"
      fill="none"

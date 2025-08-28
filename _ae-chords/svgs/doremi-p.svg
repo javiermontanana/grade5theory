@@ -5,8 +5,31 @@
    viewBox="0 0 1358.3501 288.23343"
    version="1.2"
    id="svg156"
+   sodipodi:docname="doremi-p.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="5.0217174"
+     inkscape:cx="161.19983"
+     inkscape:cy="38.333499"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg156" />
   <defs
      id="defs156" />
   <title
@@ -61,7 +84,8 @@
   <path
      class="MeasureNumber"
      d="m 51.660013,14.769898 c 0.69,-3.53 1.49,-5.7199998 3,-8.4099998 1.81,-3.15 3.97,-4.76 6.36,-4.76 1.25,0 2,0.48 2,1.25 0,0.28 -0.08,0.43 -0.36,0.95 -0.36,0.69 -0.51,1.16 -0.51,1.77 0,1.28 0.95,2.15 2.31,2.15 1.64,0 2.76,-1.2 2.76,-3 0,-2.72 -2.56,-4.71999996425 -6.12,-4.71999996425 -8.91,0 -14.31,11.63999976425 -14.31,19.31999976425 0,5.89 2.92,9.43 7.79,9.43 6,0 10.44,-4.95 10.44,-10.82 0,-4.08 -2.75,-6.93 -6.75,-6.93 -2.8,0 -4.97,1.21 -6.61,3.77 m 5.33,-1.45 c 2.48,0 3.84,1.71 3.84,4.84 0,5.08 -2.68,8.95 -6.25,8.95 -2.56,0 -4.08,-1.87 -4.08,-5.08 0,-5 2.77,-8.71 6.49,-8.71"
-     id="path54" />
+     id="path54"
+     style="fill:#000000;fill-opacity:0" />
   <polyline
      class="BarLine"
      fill="none"
@@ -150,7 +174,7 @@
   <ellipse
      style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2.83465;stroke-linecap:square;stroke-dasharray:none;paint-order:stroke fill markers"
      id="path162"
-     cx="586.70801"
+     cx="580.70154"
      cy="101.6399"
      rx="33.574253"
      ry="30.434216" />

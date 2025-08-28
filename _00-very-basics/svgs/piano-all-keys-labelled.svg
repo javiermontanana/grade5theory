@@ -1,0 +1,87 @@
+<svg width="840" height="270" xmlns="http://www.w3.org/2000/svg" font-family="Times New Roman, serif">
+  <!-- White keys -->
+  <g stroke="black">
+    <rect x="0" y="0" width="60" height="270" fill="white"/>
+    <rect x="60" y="0" width="60" height="270" fill="white"/>
+    <rect x="120" y="0" width="60" height="270" fill="white"/>
+    <rect x="180" y="0" width="60" height="270" fill="white"/>
+    <rect x="240" y="0" width="60" height="270" fill="white"/>
+    <rect x="300" y="0" width="60" height="270" fill="white"/>
+    <rect x="360" y="0" width="60" height="270" fill="white"/>
+    <rect x="420" y="0" width="60" height="270" fill="white"/>
+    <rect x="480" y="0" width="60" height="270" fill="white"/>
+    <rect x="540" y="0" width="60" height="270" fill="white"/>
+    <rect x="600" y="0" width="60" height="270" fill="white"/>
+    <rect x="660" y="0" width="60" height="270" fill="white"/>
+    <rect x="720" y="0" width="60" height="270" fill="white"/>
+    <rect x="780" y="0" width="60" height="270" fill="white"/>
+  </g>
+
+  <!-- Black keys with rounded bottom corners -->
+  <g>
+    <rect x="40" y="0" width="40" height="160" rx="0" ry="6" fill="black"/>
+    <rect x="100" y="0" width="40" height="160" rx="0" ry="6" fill="black"/>
+    <rect x="220" y="0" width="40" height="160" rx="0" ry="6" fill="black"/>
+    <rect x="280" y="0" width="40" height="160" rx="0" ry="6" fill="black"/>
+    <rect x="340" y="0" width="40" height="160" rx="0" ry="6" fill="black"/>
+    
+    <rect x="460" y="0" width="40" height="160" rx="0" ry="6" fill="black"/>
+    <rect x="520" y="0" width="40" height="160" rx="0" ry="6" fill="black"/>
+    <rect x="640" y="0" width="40" height="160" rx="0" ry="6" fill="black"/>
+    <rect x="700" y="0" width="40" height="160" rx="0" ry="6" fill="black"/>
+    <rect x="760" y="0" width="40" height="160" rx="0" ry="6" fill="black"/>
+  </g>
+
+  <!-- White key labels, slightly higher -->
+  <g fill="black" font-weight="bold" font-size="38" text-anchor="middle">
+    <text x="30" y="245">C</text>
+    <text x="90" y="245">D</text>
+    <text x="150" y="245">E</text>
+    <text x="210" y="245">F</text>
+    <text x="270" y="245">G</text>
+    <text x="330" y="245">A</text>
+    <text x="390" y="245">B</text>
+    <text x="450" y="245">C</text>
+    <text x="510" y="245">D</text>
+    <text x="570" y="245">E</text>
+    <text x="630" y="245">F</text>
+    <text x="690" y="245">G</text>
+    <text x="750" y="245">A</text>
+    <text x="810" y="245">B</text>
+  </g>
+
+  <!-- Black key labels (vertically stacked, stylized) -->
+  <g fill="white" font-weight="bold" text-anchor="middle" font-size="30">
+    <!-- First octave -->
+    <text x="60" y="50">C♯</text>
+    <text x="60" y="105">D♭</text>
+    
+    <text x="120" y="50">D♯</text>
+    <text x="120" y="105">E♭</text>
+    
+    <text x="240" y="50">F♯</text>
+    <text x="240" y="105">G♭</text>
+    
+    <text x="300" y="50">G♯</text>
+    <text x="300" y="105">A♭</text>
+    
+    <text x="360" y="50">A♯</text>
+    <text x="360" y="105">B♭</text>
+    
+    <!-- Second octave -->
+    <text x="480" y="50">C♯</text>
+    <text x="480" y="105">D♭</text>
+    
+    <text x="540" y="50">D♯</text>
+    <text x="540" y="105">E♭</text>
+    
+    <text x="660" y="50">F♯</text>
+    <text x="660" y="105">G♭</text>
+    
+    <text x="720" y="50">G♯</text>
+    <text x="720" y="105">A♭</text>
+    
+    <text x="780" y="50">A♯</text>
+    <text x="780" y="105">B♭</text>
+  </g>
+</svg>
