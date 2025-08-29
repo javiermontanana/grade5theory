@@ -8,7 +8,7 @@
 title: "Music Theory"
 tagline: ""
 description: "an open online textbook for grade 5 music theory"
-keywords: "music theory, OER, ABRSM, grade 5"
+keywords: "music theory, OER, ABRSM, grade 5, grade five theory"
 owner: Javier Montañana 
 email: javier.montanana@gmail.com
 published: 2025
@@ -25,9 +25,9 @@ collections:
   # 00-very-basics:
   #   output: true
   #   name: 0) The basics
-  # 01-rhythm-and-meter:
-  #   output: true
-  #   name: 1) Rhythm and Metre
+  01-rhythm-and-meter:
+    output: true
+    name: 1) Rhythm and Metre
   aa-intervals:
     output: true
     name: 2) Intervals
@@ -42,13 +42,13 @@ collections:
     name: 5) Chromatic Scales
   ae-chords:
     output: true
-    name: 5) Chords
+    name: 6) Chords
   ag-clefs-and-registers:
     output: true
-    name: 6) Clefs and registers
-  af-ornaments:
-    output: true
-    name: 7) Ornaments
+    name: 7) Clefs and registers
+  # af-ornaments:
+  #   output: true
+  #   name: 8) Ornaments
 #  final-project:
 #    output: true
 #    name: Final Project Notes and Discussion

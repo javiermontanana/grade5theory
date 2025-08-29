@@ -11,35 +11,59 @@
 
 ### Trill 
 
-note above: 
-ababababababa
 
-sometimes a resolution with the note under
+A trill is a quick repeated alternation between the written note and the upper note. 
+
+It is written as a note with the symbol tr above it. 
+
+
+
+It is performed as a quick alternation between the two notes, 
+perhaps something like this: 
+
+
+
+
 
 
 
 
 ### Mordent: 
 
+
 A mordent is like a one-turn trill. 
-So we will go from the main to the upper note, then back to the main note. 
+So it is a single alternation between two notes. 
+
+But in the case of mordents, we will have two types: 
+upper mordent 
+lower mordent
 
 
-But for mordents, we will distinguish between 2 types: 
+As the names suggest, the upper mordent goes to the note above the written note, 
+and the lower mordent goes to the one below. 
 
-Upper mordent and lower mordent. 
+
+
+
 
 
 
 
 ### Turn
 
-A turn is indicated by this sign: 
 
-A turn takes us above and below the main note. 
+A turn takes us above and below the written note. 
+
+
+A turn is indicated by the sign:  
+
+
 
 The notes follow the shape of the sign. 
 This may help you remember how it is performed. 
+
+
+
 
 
 The rhythm may vary - 
