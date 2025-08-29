@@ -5,8 +5,31 @@
    viewBox="0 0 609.54003 178.48"
    version="1.2"
    id="svg813"
+   sodipodi:docname="ex7-21-c.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="11.190815"
+     inkscape:cx="52.677126"
+     inkscape:cy="23.814172"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg813" />
   <defs
      id="defs813" />
   <title
@@ -22,10 +45,6 @@
      points="1544.86,3772.6 2154.4,3772.6"
      id="polyline51"
      transform="translate(-1544.86,-3645.09)" />
-  <path
-     class="MeasureNumber"
-     d="m 4.480007,12.999945 c -1.25,0.75 -1.61,1.23 -1.61,2.03 0,0.77 0.65,1.33 1.44,1.33 1.05,0 1.64,-0.77 1.77,-2.25 1.23,-1 2.56,-1.44 4.15,-1.44 2.97,0 4.61,1.84 4.61,5.16 0,5.2 -3.36,9.43 -7.48,9.43 -2.36,0 -4.28,-1.1 -4.28,-2.43 0,-0.24 0.04,-0.32 0.23,-0.44 1.28,-0.59 2.33,-1.03 2.33,-2.72 0,-1.28 -1,-2.23 -2.41,-2.23 -1.75,0 -3.07,1.47 -3.07,3.39 0,3.53 3.04,6.08 7.32,6.08 6.47,0 11.72,-5.16 11.72,-11.55 0,-4.05 -3.08,-6.89 -7.43,-6.89 -1.74,0 -3.13,0.36 -5.05,1.33 l 2.23,-7.5700008 c 2.13,0.44 3.82,0.64 5.25,0.64 2.64,0 5,-0.84 6.32,-2.23 0.68,-0.8 1.07,-1.48 1.07,-1.99999992 0,-0.25 -0.12,-0.48 -0.28,-0.48 -0.11,0 -0.2,0.04 -0.44,0.15 -1.31,0.64 -3,0.99999992 -4.56,0.99999992 -2.39,0 -5.23,-0.38999992 -8.19,-1.14999992 l -3.64,12.84000072 m 35.88,-13.000000725862 h -1.16 C 37.000007,1.6399442 32.770007,3.0299442 29.870007,3.0299442 l -0.46,1.77 h 2.75 c 2.43,0 2.71,0.07 2.71,0.79 0,0.36 0,0.36 -0.39,1.8 l -4.28,16.0000008 c -0.53,2 -0.56,2.12 -0.92,2.48 -0.41,0.39 -1.25,0.52 -3.36,0.57 h -1.72 l -0.2,1.87 h 14.8 l 0.23,-1.87 h -2.16 c -2.59,0 -3.15,-0.21 -3.15,-1.08 0,-0.28 0.15,-1.2 0.36,-1.97 l 6.28,-23.390000725862"
-     id="path84" />
   <polyline
      class="BarLine"
      fill="none"

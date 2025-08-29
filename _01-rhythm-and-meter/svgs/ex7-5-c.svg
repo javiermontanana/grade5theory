@@ -5,8 +5,31 @@
    viewBox="0 0 738.23022 178.47702"
    version="1.2"
    id="svg813"
+   sodipodi:docname="ex7-5-c.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="9.2400039"
+     inkscape:cx="20.508649"
+     inkscape:cy="23.755401"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg813" />
   <defs
      id="defs813" />
   <title
@@ -25,7 +48,8 @@
   <path
      class="MeasureNumber"
      d="m 17.360126,-5.2250278e-5 h -1.16 C 14.000126,1.6409478 9.7601255,3.0309478 6.8701255,3.0309478 l -0.47,1.766 h 2.75 c 2.4400005,0 2.7200005,0.078 2.7200005,0.797 0,0.359 0,0.359 -0.39,1.797 L 7.2001255,23.390947 c -0.53,2 -0.56,2.125 -0.92,2.484 -0.41,0.391 -1.25,0.516 -3.36,0.563 h -1.72 l -0.2,1.875 H 15.790126 l 0.24,-1.875 h -2.16 c -2.59,0 -3.16,-0.204 -3.16,-1.079 0,-0.281 0.16,-1.203 0.36,-1.968 l 6.29,-23.390999250278 m 17.67,0.156000000278 c -8.6,0 -12.88,11.84399925 -12.88,18.87499925 0,5.797 2.89,9.875 6.97,9.875 6.83,0 12.95,-8.875 12.95,-18.797 0,-5.9529992 -2.84,-9.95299925 -7.04,-9.95299925 m -0.03,1.59400005 c 2.07,0 3.2,1.844 3.2,5.281 0,3.9219992 -1,8.9999992 -2.64,13.1249992 -1.92,5 -3.85,7.157 -6.25,7.157 -2.16,0 -3.36,-1.922 -3.36,-5.313 0,-5.203 1.84,-12.1719992 4.41,-16.7969992 1.23,-2.25 2.84,-3.453 4.64,-3.453"
-     id="path60" />
+     id="path60"
+     style="fill:#000000;fill-opacity:0" />
   <polyline
      class="BarLine"
      fill="none"

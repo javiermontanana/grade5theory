@@ -5,8 +5,31 @@
    viewBox="0 0 501.62601 181.53272"
    version="1.2"
    id="svg440"
+   sodipodi:docname="ex3-1.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="13.598278"
+     inkscape:cx="13.935588"
+     inkscape:cy="24.231009"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg440" />
   <defs
      id="defs440" />
   <title
@@ -25,7 +48,8 @@
   <path
      class="MeasureNumber"
      d="m 17.359987,2.1942303e-5 h -1.156 C 13.999987,1.640022 9.7659876,3.030022 6.8749876,3.030022 l -0.468,1.76 h 2.75 c 2.4369994,0 2.7179994,0.08 2.7179994,0.8 0,0.36 0,0.36 -0.39,1.8 l -4.2809994,16 c -0.532,2 -0.563,2.12 -0.922,2.48 -0.407,0.39 -1.25,0.52 -3.36,0.56 h -1.718 l -0.20400001,1.88 H 15.796987 l 0.235,-1.88 h -2.157 c -2.593,0 -3.156,-0.2 -3.156,-1.07 0,-0.29 0.156,-1.21 0.36,-1.97 L 17.359987,2.1942303e-5 M 38.390987,20.030022 l -1.031,1.84 c -1.61,2.77 -1.922,3 -3.969,3.03 h -9.266 c 0.954,-1.26 2.719,-2.75 5.907,-5 5.281,-3.62 5.64,-3.87 6.765,-4.75 3.203,-2.48 4.516,-4.84 4.516,-8 0,-4.2 -3.109,-7.00000005 -7.719,-7.00000005 -5.109,0 -9.547,3.77000005 -9.547,8.13000005 0,2.23 1.188,3.67 3.11,3.67 1.437,0 2.562,-1.08 2.562,-2.56 0,-1.03 -0.515,-1.72 -1.844,-2.44 -0.953,-0.49 -1.109,-0.67 -1.109,-1.16 0,-1.72 2.953,-3.64 5.672,-3.64 2.797,0 4.687,1.88 4.687,4.69 0,2.98 -1.328,5.19 -4.921,8.31 -10.641,9.24 -12.25,10.92 -12.61,13.16 h 17.156 l 3.094,-7.72 -1.453,-0.56"
-     id="path27" />
+     id="path27"
+     style="fill:#000000;fill-opacity:0" />
   <polyline
      class="BarLine"
      fill="none"

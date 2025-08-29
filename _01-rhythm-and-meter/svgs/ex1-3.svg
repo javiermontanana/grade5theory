@@ -5,8 +5,31 @@
    viewBox="0 0 447.11998 178.32"
    version="1.2"
    id="svg440"
+   sodipodi:docname="ex1-3.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="15.255972"
+     inkscape:cx="17.665213"
+     inkscape:cy="23.761186"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg440" />
   <defs
      id="defs440" />
   <title
@@ -16,16 +39,8 @@
   <path
      class="MeasureNumber"
      d="m 19.500015,13.360037 c 3.12,-1.485 6.04,-3.125 6.04,-7.1250003 0,-3.641 -3.07,-6.235000028542 -7.35,-6.235000028542 -5.16,0 -9.1599994,3.719000028542 -9.1599994,8.563000028542 0,2.4370003 0.84,4.0000003 2.9999994,5.5620003 -4.7199994,1.797 -7.2499994,4.719 -7.2499994,8.36 0,3.875 3.2,6.265 8.3299994,6.265 6.15,0 10.56,-3.75 10.56,-8.953 0,-3.156 -1.72,-4.844 -4.17,-6.437 m -1.72,-0.954 c -4.08,-1.921 -5.55,-3.4840003 -5.55,-5.7650003 0,-2.766 2.47,-4.922 5.63,-4.922 2.76,0 4.68,1.766 4.68,4.281 0,3 -2.07,5.3600003 -4.76,6.4060003 m -4.24,2.797 c 1.93,0.875 2.57,1.188 3.57,1.797 2,1.203 3.08,2.797 3.08,4.594 0,3.078 -2.88,5.406 -6.65,5.406 -3.4,0 -5.5099994,-1.922 -5.5099994,-5 0,-3 1.92,-5.359 5.5099994,-6.797"
-     id="path25" />
-  <polyline
-     class="BarLine"
-     fill="none"
-     stroke="#000000"
-     stroke-width="4.46"
-     stroke-linejoin="bevel"
-     points="1586.44,769.234 1586.44,871.162"
-     id="polyline60"
-     transform="translate(-1584.21,-692.84196)" />
+     id="path25"
+     style="fill:#000000;fill-opacity:0" />
   <polyline
      class="Stem"
      fill="none"

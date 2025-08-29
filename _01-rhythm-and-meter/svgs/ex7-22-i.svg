@@ -5,8 +5,31 @@
    viewBox="0 0 558.00999 178.46992"
    version="1.2"
    id="svg813"
+   sodipodi:docname="ex7-22-i.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="12.224244"
+     inkscape:cx="41.679471"
+     inkscape:cy="23.764252"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg813" />
   <defs
      id="defs813" />
   <title
@@ -22,10 +45,6 @@
      points="2206.59,3512.11 2764.6,3512.11"
      id="polyline48"
      transform="translate(-2206.5901,-3384.6)" />
-  <path
-     class="MeasureNumber"
-     d="m 21.489966,-5.2599061e-5 h -2.18 L 0.68996653,19.279948 v 1.67 H 11.959966 l -0.65,2.44 c -0.79,3.04 -0.79,3.04 -4.2799994,3.04 h -0.72 l -0.23,1.88 H 18.519966 l 0.2,-1.88 h -0.72 c -2.64,0 -3.2,-0.2 -3.2,-1.07 0,-0.33 0.08,-0.72 0.41,-1.97 l 0.67,-2.44 h 4.56 l 0.59,-2.16 h -4.59 l 5.05,-18.790000599061 M 12.559966,18.789948 H 3.5999666 L 15.959966,6.0699474 l -3.4,12.7200006 m 25.47,-5.28 c 3.13,-1.48 6.05,-3.12 6.05,-7.1200006 0,-3.64 -3.08,-6.24 -7.36,-6.24 -5.16,0 -9.16,3.72 -9.16,8.57 0,2.4300006 0.85,4.0000006 3,5.5600006 -4.71,1.79 -7.25,4.72 -7.25,8.36 0,3.87 3.21,6.26 8.33,6.26 6.16,0 10.57,-3.75 10.57,-8.95 0,-3.16 -1.72,-4.84 -4.18,-6.44 m -1.72,-0.95 c -4.07,-1.92 -5.54,-3.4900006 -5.54,-5.7700006 0,-2.76 2.47,-4.92 5.62,-4.92 2.77,0 4.69,1.77 4.69,4.28 0,3 -2.08,5.3600006 -4.77,6.4100006 m -4.23,2.8 c 1.92,0.87 2.56,1.18 3.56,1.79 2,1.21 3.08,2.8 3.08,4.6 0,3.07 -2.87,5.4 -6.64,5.4 -3.41,0 -5.52,-1.92 -5.52,-5 0,-3 1.93,-5.36 5.52,-6.79"
-     id="path90" />
   <path
      class="TieSegment"
      stroke="#000000"

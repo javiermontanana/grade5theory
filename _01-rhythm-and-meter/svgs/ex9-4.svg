@@ -5,8 +5,31 @@
    viewBox="0 0 658.83999 178.48"
    version="1.2"
    id="svg318"
+   sodipodi:docname="ex9-4.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="10.353424"
+     inkscape:cx="26.030035"
+     inkscape:cy="23.808548"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg318" />
   <defs
      id="defs318" />
   <title
@@ -22,10 +45,6 @@
      points="2105.76,2108.03 2764.6,2108.03"
      id="polyline11"
      transform="translate(-2105.76,-1980.51)" />
-  <path
-     class="MeasureNumber"
-     d="m 17.360024,7.710662e-6 h -1.15 C 14.000024,1.6500077 9.7700235,3.0400077 6.8800235,3.0400077 l -0.47,1.76 h 2.75 c 2.4400005,0 2.7200005,0.08 2.7200005,0.8 0,0.36 0,0.36 -0.39,1.8 L 7.2100235,23.400008 c -0.53,2 -0.56,2.12 -0.92,2.48 -0.41,0.39 -1.25,0.52 -3.36,0.56 h -1.72 l -0.21,1.88 H 15.800024 l 0.24,-1.88 h -2.16 c -2.59,0 -3.16,-0.2 -3.16,-1.08 0,-0.28 0.16,-1.2 0.36,-1.96 l 6.28,-23.400000289338 m 22,0 h -1.15 C 36.000024,1.6500077 31.770024,3.0400077 28.880024,3.0400077 l -0.47,1.76 h 2.75 c 2.44,0 2.72,0.08 2.72,0.8 0,0.36 0,0.36 -0.39,1.8 l -4.28,16.0000003 c -0.53,2 -0.56,2.12 -0.92,2.48 -0.41,0.39 -1.25,0.52 -3.36,0.56 h -1.72 l -0.21,1.88 h 14.8 l 0.24,-1.88 h -2.16 c -2.59,0 -3.16,-0.2 -3.16,-1.08 0,-0.28 0.16,-1.2 0.36,-1.96 l 6.28,-23.400000289338"
-     id="path36" />
   <polyline
      class="BarLine"
      fill="none"

@@ -5,8 +5,31 @@
    viewBox="0 0 499.26801 178.48"
    version="1.2"
    id="svg813"
+   sodipodi:docname="ex7-19-i.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="13.662502"
+     inkscape:cx="13.870081"
+     inkscape:cy="23.824334"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg813" />
   <defs
      id="defs813" />
   <title
@@ -22,10 +45,6 @@
      points="212.598,3251.62 711.866,3251.62"
      id="polyline40"
      transform="translate(-212.59802,-3124.1001)" />
-  <path
-     class="MeasureNumber"
-     d="m 21.484987,-7.0088775e-5 h -2.172 L 0.68798668,19.28993 v 1.67 H 11.953987 l -0.641,2.43 c -0.797,3.05 -0.797,3.05 -4.2810003,3.05 h -0.719 l -0.234,1.88 H 18.515987 l 0.203,-1.88 h -0.719 c -2.64,0 -3.203,-0.2 -3.203,-1.08 0,-0.32 0.078,-0.72 0.407,-1.97 l 0.671,-2.43 h 4.563 l 0.594,-2.16 h -4.594 l 5.047,-18.800000088775 M 12.562987,18.79993 H 3.5939867 L 15.953987,6.0799299 12.562987,18.79993 m 24.469,-18.64000009 c -8.594,0 -12.875,11.84000009 -12.875,18.88000009 0,5.79 2.89,9.87 6.968,9.87 6.829,0 12.954,-8.87 12.954,-18.8 0,-5.9500001 -2.844,-9.95000009 -7.047,-9.95000009 m -0.032,1.58999999 c 2.079,0 3.204,1.85 3.204,5.29 0,3.9200001 -1,9.0000001 -2.641,13.1200001 -1.922,5 -3.844,7.16 -6.25,7.16 -2.156,0 -3.359,-1.93 -3.359,-5.32 0,-5.2 1.843,-12.1700001 4.406,-16.7900001 1.234,-2.25 2.844,-3.46 4.64,-3.46"
-     id="path57" />
   <path
      class="TieSegment"
      stroke="#000000"

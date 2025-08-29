@@ -5,8 +5,31 @@
    viewBox="0 0 561.03994 178.33007"
    version="1.2"
    id="svg813"
+   sodipodi:docname="ex7-8-cb.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="12.158225"
+     inkscape:cx="41.905786"
+     inkscape:cy="23.811041"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg813" />
   <defs
      id="defs813" />
   <title
@@ -25,7 +48,8 @@
   <path
      class="MeasureNumber"
      d="m 19.390019,19.880104 -1.03,1.84 c -1.61,2.77 -1.92,3 -3.97,3.03 H 5.1300188 c 0.95,-1.26 2.72,-2.75 5.9000002,-5 5.29,-3.62 5.65,-3.87 6.77,-4.75 3.2,-2.48 4.52,-4.84 4.52,-8.0000003 0,-4.2 -3.11,-6.99999994755 -7.72,-6.99999994755 -5.1100002,0 -9.5500002,3.76999994755 -9.5500002,8.12999994755 0,2.2300003 1.19,3.6700003 3.11,3.6700003 1.44,0 2.5600002,-1.08 2.5600002,-2.5600003 0,-1.03 -0.51,-1.72 -1.8400002,-2.44 -0.95,-0.48 -1.11,-0.67 -1.11,-1.15 0,-1.72 2.9500002,-3.65 5.6700002,-3.65 2.8,0 4.69,1.88 4.69,4.69 0,2.99 -1.33,5.1900003 -4.92,8.3100003 -10.6400002,9.24 -12.25000028,10.93 -12.61000028,13.16 H 17.750019 l 3.1,-7.72 -1.46,-0.56 m 18.64,-19.88000024755 c -8.59,0 -12.87,11.85000024755 -12.87,18.88000024755 0,5.8 2.89,9.87 6.97,9.87 6.83,0 12.95,-8.87 12.95,-18.7900003 0,-5.96 -2.84,-9.95999994755 -7.05,-9.95999994755 m -0.03,1.59999994755 c 2.08,0 3.21,1.84 3.21,5.28 0,3.9200003 -1,9.0000003 -2.64,13.1200003 -1.93,5 -3.85,7.16 -6.25,7.16 -2.16,0 -3.36,-1.92 -3.36,-5.31 0,-5.2 1.84,-12.1700003 4.4,-16.8000003 1.24,-2.25 2.85,-3.45 4.64,-3.45"
-     id="path70" />
+     id="path70"
+     style="fill:#000000;fill-opacity:0" />
   <polyline
      class="BarLine"
      fill="none"

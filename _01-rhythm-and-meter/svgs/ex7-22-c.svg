@@ -5,8 +5,31 @@
    viewBox="0 0 495.51995 178.46992"
    version="1.2"
    id="svg813"
+   sodipodi:docname="ex7-22-c.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="13.765843"
+     inkscape:cx="37.011899"
+     inkscape:cy="23.790769"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg813" />
   <defs
      id="defs813" />
   <title
@@ -22,10 +45,6 @@
      points="1587.07,3512.11 2082.59,3512.11"
      id="polyline47"
      transform="translate(-1587.07,-3384.6)" />
-  <path
-     class="MeasureNumber"
-     d="m 21.480014,-5.2599061e-5 h -2.17 L 0.69001342,19.279948 v 1.67 H 11.950014 l -0.64,2.44 c -0.8,3.04 -0.8,3.04 -4.2800006,3.04 h -0.72 l -0.23,1.88 H 18.510014 l 0.21,-1.88 h -0.72 c -2.64,0 -3.2,-0.2 -3.2,-1.07 0,-0.33 0.07,-0.72 0.4,-1.97 l 0.67,-2.44 h 4.57 l 0.59,-2.16 h -4.59 l 5.04,-18.790000599061 M 12.560014,18.789948 H 3.5900134 L 15.950014,6.0699474 l -3.39,12.7200006 m 32.88,-18.6400006 c -2.13,0.24 -4.72,0.41 -6.96,0.41 -1.12,0 -2.4,-0.05 -3.84,-0.13 -1.33,-0.07 -2.64,-0.15 -4,-0.23 l -1,-0.05 -3.88,8.44 1.47,0.48 0.97,-1.6 c 1.88,-3.11 2.75,-3.55 6.83,-3.52 h 6.77 l -4.36,6.2500006 c -5.13,7.19 -5.13,7.19 -7.08,10.39 -1.77,2.84 -2.49,4.59 -2.49,6.03 0,1.41 0.89,2.28 2.29,2.28 1.48,0 2.23,-0.72 2.76,-2.59 2,-7.52 3.2,-10.13 8.75,-19.1100006 l 3.77,-5.84 v -1.21"
-     id="path92" />
   <polyline
      class="BarLine"
      fill="none"

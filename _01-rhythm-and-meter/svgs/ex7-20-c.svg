@@ -5,8 +5,31 @@
    viewBox="0 0 609.53798 178.48"
    version="1.2"
    id="svg813"
+   sodipodi:docname="ex7-20-c.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="11.190853"
+     inkscape:cx="52.676949"
+     inkscape:cy="23.814091"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg813" />
   <defs
      id="defs813" />
   <title
@@ -22,10 +45,6 @@
      points="152.366,3772.6 761.904,3772.6"
      id="polyline49"
      transform="translate(-152.366,-3645.09)" />
-  <path
-     class="MeasureNumber"
-     d="m 21.484005,-5.5725862e-5 h -2.172 L 0.68700441,19.279945 v 1.67 H 11.953005 l -0.641,2.44 c -0.797,3.05 -0.797,3.05 -4.2810005,3.05 h -0.719 l -0.234,1.87 H 18.515005 l 0.203,-1.87 h -0.718 c -2.641,0 -3.204,-0.21 -3.204,-1.08 0,-0.33 0.079,-0.72 0.407,-1.97 l 0.672,-2.44 h 4.562 l 0.594,-2.15 h -4.594 l 5.047,-18.800000725862 M 12.562005,18.799945 H 3.5930045 L 15.953005,6.0799442 l -3.391,12.7200008 m 26.156,-4.16 c -1,4.64 -3.687,12.59 -9.406,12.59 -1.156,0 -1.906,-0.48 -1.906,-1.2 0,-0.28 0.078,-0.39 0.39,-0.87 0.407,-0.52 0.61,-1 0.61,-1.57 0,-1.31 -1.047,-2.31 -2.406,-2.31 -1.594,0 -2.719,1.19 -2.719,2.95 0,2.72 2.562,4.68 6.125,4.68 8.75,0 14.344,-11.19 14.344,-18.8 0,-6.2400008 -3,-9.95000072 -7.954,-9.95000072 -5.953,0 -10.39,5.47999992 -10.39,11.20000072 0,3.8 2.906,6.67 6.797,6.67 2.64,0 4.672,-1.08 6.515,-3.39 m -2.953,-12.8000008 c 2.547,0 4.188,2.03 4.188,5.24 0,4.9500008 -2.719,8.5900008 -6.391,8.5900008 -2.531,0 -3.922,-1.72 -3.922,-4.72 0,-3.5900008 1.719,-9.1100008 6.125,-9.1100008"
-     id="path87" />
   <polyline
      class="BarLine"
      fill="none"

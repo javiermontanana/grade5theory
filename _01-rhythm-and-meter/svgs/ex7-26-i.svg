@@ -5,8 +5,31 @@
    viewBox="0 0 393.52398 178.47005"
    version="1.2"
    id="svg813"
+   sodipodi:docname="ex7-26-i.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="17.33376"
+     inkscape:cx="29.393508"
+     inkscape:cy="23.797492"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg813" />
   <defs
      id="defs813" />
   <title
@@ -22,10 +45,6 @@
      points="262.966,1428.17 656.49,1428.17"
      id="polyline14"
      transform="translate(-262.96601,-1300.66)" />
-  <path
-     class="MeasureNumber"
-     d="m 17.359993,-8.0604424e-5 h -1.157 C 13.999993,1.6399194 9.7659932,3.0299194 6.8749932,3.0299194 l -0.468,1.76 h 2.75 c 2.4369998,0 2.7179998,0.08 2.7179998,0.8 0,0.36 0,0.36 -0.39,1.8 L 7.2029932,23.389919 c -0.531,2 -0.562,2.12 -0.921,2.48 -0.407,0.39 -1.25,0.52 -3.36,0.56 h -1.719 l -0.20300005,1.88 H 15.796993 l 0.235,-1.88 h -2.157 c -2.593,0 -3.156,-0.2 -3.156,-1.07 0,-0.29 0.156,-1.21 0.359,-1.97 l 6.282,-23.389999604424 m 24.125,0 h -2.172 L 20.687993,19.279919 v 1.67 h 11.265 l -0.64,2.44 c -0.797,3.04 -0.797,3.04 -4.281,3.04 h -0.719 l -0.235,1.88 h 12.438 l 0.203,-1.88 h -0.719 c -2.64,0 -3.203,-0.2 -3.203,-1.07 0,-0.33 0.078,-0.72 0.406,-1.97 l 0.672,-2.44 h 4.563 l 0.594,-2.16 h -4.594 l 5.047,-18.789999604424 M 32.562993,18.789919 h -8.969 l 12.359,-12.7199996 -3.39,12.7199996"
-     id="path67" />
   <path
      class="TieSegment"
      stroke="#000000"

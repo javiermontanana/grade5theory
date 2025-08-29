@@ -5,8 +5,31 @@
    viewBox="0 0 396.13396 178.48"
    version="1.2"
    id="svg813"
+   sodipodi:docname="ex7-13-c.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="17.219554"
+     inkscape:cx="-7.5785936"
+     inkscape:cy="23.781104"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg813" />
   <defs
      id="defs813" />
   <title
@@ -22,10 +45,6 @@
      points="835.866,3251.62 1232,3251.62"
      id="polyline41"
      transform="translate(-835.86601,-3124.1001)" />
-  <path
-     class="MeasureNumber"
-     d="m 21.484987,-7.0088775e-5 h -2.172 L 0.68798618,19.28993 v 1.67 H 11.952987 l -0.64,2.43 c -0.797,3.05 -0.797,3.05 -4.2810008,3.05 h -0.719 l -0.235,1.88 H 18.515987 l 0.203,-1.88 h -0.719 c -2.64,0 -3.203,-0.2 -3.203,-1.08 0,-0.32 0.078,-0.72 0.406,-1.97 l 0.672,-2.43 h 4.563 l 0.594,-2.16 h -4.594 l 5.047,-18.800000088775 M 12.562987,18.79993 H 3.5939862 L 15.952987,6.0799299 l -3.39,12.7200001 m 28.797,-18.800000088775 h -1.157 C 37.999987,1.6399299 33.765987,3.0399299 30.874987,3.0399299 l -0.468,1.76 h 2.75 c 2.437,0 2.718,0.08 2.718,0.8 0,0.36 0,0.36 -0.39,1.79 l -4.282,16.0000001 c -0.531,2 -0.562,2.13 -0.921,2.49 -0.407,0.39 -1.25,0.51 -3.36,0.56 h -1.719 l -0.203,1.88 h 14.797 l 0.235,-1.88 h -2.157 c -2.593,0 -3.156,-0.2 -3.156,-1.08 0,-0.28 0.156,-1.2 0.359,-1.97 l 6.282,-23.390000088775"
-     id="path61" />
   <polyline
      class="BarLine"
      fill="none"

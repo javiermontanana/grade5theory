@@ -5,8 +5,31 @@
    viewBox="0 0 641.97998 178.48"
    version="1.2"
    id="svg318"
+   sodipodi:docname="ex9-5.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="10.625331"
+     inkscape:cx="25.363915"
+     inkscape:cy="23.763965"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg318" />
   <defs
      id="defs318" />
   <title
@@ -22,10 +45,6 @@
      points="244.413,2538.48 886.393,2538.48"
      id="polyline12"
      transform="translate(-244.41299,-2410.9702)" />
-  <path
-     class="MeasureNumber"
-     d="m 17.359009,-1.9356903e-4 h -1.156 C 14.000009,1.6398064 9.765009,3.0298064 6.875009,3.0298064 l -0.469,1.77 h 2.75 c 2.437,0 2.719,0.08 2.719,0.8 0,0.35 0,0.35 -0.391,1.79 l -4.281,16.0000006 c -0.531,2 -0.563,2.13 -0.922,2.49 -0.406,0.39 -1.25,0.51 -3.359,0.56 h -1.719 l -0.203,1.87 h 14.797 l 0.234,-1.87 h -2.156 c -2.594,0 -3.157,-0.2 -3.157,-1.08 0,-0.28 0.157,-1.2 0.36,-1.97 l 6.281,-23.39000056903 m 21.031,20.03000056903 -1.031,1.85 c -1.609,2.76 -1.922,3 -3.969,3.03 h -9.265 c 0.953,-1.27 2.718,-2.75 5.906,-5 5.281,-3.63 5.641,-3.88 6.766,-4.75 3.203,-2.49 4.515,-4.85 4.515,-8.0000006 0,-4.21 -3.109,-6.99999997 -7.719,-6.99999997 -5.109,0 -9.546,3.75999997 -9.546,8.11999997 0,2.2400006 1.187,3.6700006 3.109,3.6700006 1.437,0 2.562,-1.07 2.562,-2.5600006 0,-1.03 -0.515,-1.72 -1.843,-2.44 -0.953,-0.48 -1.11,-0.67 -1.11,-1.15 0,-1.72 2.953,-3.64 5.672,-3.64 2.797,0 4.688,1.87 4.688,4.69 0,2.98 -1.328,5.1800006 -4.922,8.3100006 -10.641,9.23 -12.25,10.92 -12.61,13.15 h 17.157 l 3.093,-7.71 -1.453,-0.57"
-     id="path23" />
   <path
      class="TieSegment"
      stroke="#000000"

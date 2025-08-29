@@ -5,8 +5,31 @@
    viewBox="0 0 819.63994 178.32"
    version="1.2"
    id="svg318"
+   sodipodi:docname="ex8-5.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="8.3222519"
+     inkscape:cx="41.154726"
+     inkscape:cy="20.126764"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg318" />
   <defs
      id="defs318" />
   <title
@@ -22,10 +45,6 @@
      points="1109.05,1677.57 1928.69,1677.57"
      id="polyline7"
      transform="translate(-1109.05,-1550.21)" />
-  <path
-     class="MeasureNumber"
-     d="m 20.439947,7.6320611e-5 c -2.13,0.239999999389 -4.72,0.409999999389 -6.95,0.409999999389 -1.13,0 -2.41,-0.05 -3.85,-0.13 -1.33,-0.07 -2.64,-0.15 -4,-0.23 l -1,-0.04999999939 L 0.76994696,8.4400763 l 1.47000004,0.49 0.96,-1.61 c 1.88,-3.11 2.75,-3.55 6.83,-3.52 h 6.77 l -4.36,6.2499997 c -5.13,7.19 -5.13,7.19 -7.08,10.39 -1.76,2.84 -2.48,4.59 -2.48,6.03 0,1.41 0.89,2.28 2.28,2.28 1.48,0 2.23,-0.72 2.76,-2.59 2,-7.52 3.21,-10.13 8.75,-19.1099997 l 3.77,-5.84 V 7.6320611e-5"
-     id="path37" />
   <polyline
      class="BarLine"
      fill="none"
