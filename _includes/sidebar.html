@@ -9,7 +9,7 @@
     <a class="sidebar-nav-item{% if page.url == '/toc.html' %} active{% endif %}" href="{{ site.baseurl }}/toc.html">Table of Contents</a>
 
     {% for chapter in site.collections %}
-    {% if chapter.label != 'posts' and chapter.label != 'assignments' and chapter.label != 'final-project' %}
+    <!-- {% if chapter.label != 'posts' and chapter.label != 'assignments' and chapter.label != 'final-project' %} -->
     <div class="sidebar-nav-item chapter{% if page.collection == chapter.label %} active active-chapter{% endif %}" onclick="toggleChapter(this);">{{ chapter.name }}
       <ul class="chapter-contents">
         {% for lesson in chapter.docs %}
@@ -26,9 +26,9 @@
     <a class="sidebar-nav-item" href="{{ site.github-repo }}">GitHub project</a> -->
   </nav>
 
-  <div class="sidebar-item">
+  <!-- <div class="sidebar-item">
     <p>
       <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" >CC BY-NC-SA</a> {{ site.published }}. 
     </p>
-  </div>
+  </div> -->
 </div>

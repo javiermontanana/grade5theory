@@ -58,6 +58,10 @@ A turn takes us above and below the written note.
 A turn is indicated by the sign:  
 
 
+(this is sometimes called an upper turn. 
+There is also a lower turn which goes under the written note first, 
+but it is less common and not required for the grade 5 theory exam.)
+
 
 The notes follow the shape of the sign. 
 This may help you remember how it is performed. 
