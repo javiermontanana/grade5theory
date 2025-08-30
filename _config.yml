@@ -22,33 +22,33 @@ baseurl: /grade5theory
 # each unit of the book is a collection
 # each unit collection should be given a name value
 collections:
-  # 00-very-basics:
-  #   output: true
-  #   name: 0) The basics
+  00-very-basics:
+    output: true
+    name: 1) The basics
   01-rhythm-and-meter:
     output: true
-    name: 1) Rhythm and Metre
+    name: 2) Rhythm and Metre
   aa-intervals:
     output: true
-    name: 2) Intervals
+    name: 3) Intervals
   ab-scales:
     output: true
-    name: 3) Scales and Keys
+    name: 4) Scales and Keys
   ac-transposing:
     output: true
-    name: 4) Transposing
+    name: 5) Transposing
   ad-chromatic-and-enharmonic:
     output: true
-    name: 5) Chromatic Scales
+    name: 6) Chromatic Scales
   ae-chords:
     output: true
-    name: 6) Chords
+    name: 7) Chords
   ag-clefs-and-registers:
     output: true
-    name: 7) Clefs and registers
+    name: 8) Clefs and registers
   # af-ornaments:
   #   output: true
-  #   name: 8) Ornaments
+  #   name: 9) Ornaments
 #  final-project:
 #    output: true
 #    name: Final Project Notes and Discussion
