@@ -22,10 +22,10 @@ baseurl: /grade5theory
 # each unit of the book is a collection
 # each unit collection should be given a name value
 collections:
-  00-very-basics:
+  01-basics:
     output: true
     name: 1) The basics
-  01-rhythm-and-meter:
+  02-rhythm-and-meter:
     output: true
     name: 2) Rhythm and Metre
   aa-intervals:
@@ -46,9 +46,9 @@ collections:
   ag-clefs-and-registers:
     output: true
     name: 8) Clefs and registers
-  # af-ornaments:
-  #   output: true
-  #   name: 9) Ornaments
+  af-ornaments:
+    output: true
+    name: 9) Ornaments
 #  final-project:
 #    output: true
 #    name: Final Project Notes and Discussion
