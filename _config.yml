@@ -46,9 +46,9 @@ collections:
   ag-clefs-and-registers:
     output: true
     name: 8) Clefs and registers
-  af-ornaments:
-    output: true
-    name: 9) Ornaments
+  # af-ornaments:
+  #   output: true
+  #   name: 9) Ornaments
 #  final-project:
 #    output: true
 #    name: Final Project Notes and Discussion
