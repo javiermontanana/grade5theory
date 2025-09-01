@@ -25,30 +25,30 @@ collections:
   01-basics:
     output: true
     name: 1) The basics
-  01-rhythm-and-meter:
+  02-rhythm-and-meter:
     output: true
     name: 2) Rhythm and Metre
-  aa-intervals:
+  03-intervals:
     output: true
     name: 3) Intervals
-  ab-scales:
+  04-scales:
     output: true
     name: 4) Scales and Keys
-  ac-transposing:
+  05-transposing:
     output: true
     name: 5) Transposing
-  ad-chromatic-and-enharmonic:
+  06-chromatic:
     output: true
     name: 6) Chromatic Scales
-  ae-chords:
+  07-chords:
     output: true
     name: 7) Chords
-  ag-clefs-and-registers:
+  08-clefs-and-registers:
     output: true
     name: 8) Clefs and registers
-  # af-ornaments:
-  #   output: true
-  #   name: 9) Ornaments
+  09-ornaments:
+    output: true
+    name: 9) Ornaments
 #  final-project:
 #    output: true
 #    name: Final Project Notes and Discussion
