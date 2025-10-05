@@ -28,27 +28,27 @@ collections:
   02-rhythm-and-meter:
     output: true
     name: 2) Rhythm and Metre
-  03-intervals:
+  03-clefs-and-registers:
     output: true
-    name: 3) Intervals
-  04-scales:
+    name: 3) Clefs and registers
+  04-intervals:
     output: true
-    name: 4) Scales and Keys
-  05-transposing:
+    name: 4) Intervals
+  05-scales:
     output: true
-    name: 5) Transposing
-  06-chromatic:
+    name: 5) Scales and Keys
+  06-transposing:
     output: true
-    name: 6) Chromatic Scales
+    name: 6) Transposing
+  # 06-chromatic:
+  #   output: true
+  #   name: 6) Chromatic Scales
   07-chords:
     output: true
     name: 7) Chords
-  08-clefs-and-registers:
+  08-ornaments:
     output: true
-    name: 8) Clefs and registers
-  09-ornaments:
-    output: true
-    name: 9) Ornaments
+    name: 8) Ornaments
 #  final-project:
 #    output: true
 #    name: Final Project Notes and Discussion
