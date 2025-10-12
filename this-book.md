@@ -14,10 +14,12 @@ other chapters:
 - clefs and registers
 - rhythm and metre
 - chromatic scale 
+
 can come anywhere 
 
 
 
 
 ornaments: requires rhtythm and metre (note values and tuplets)
+
 instruments: requires clefs/transposing
