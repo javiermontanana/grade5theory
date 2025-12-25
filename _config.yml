@@ -46,6 +46,9 @@ collections:
   08-ornaments:
     output: true
     name: 8) Ornaments
+  09-terms:
+    output: true
+    name: 9) Terms
 #  final-project:
 #    output: true
 #    name: Final Project Notes and Discussion
