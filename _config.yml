@@ -46,12 +46,12 @@ collections:
   08-ornaments:
     output: true
     name: 8) Ornaments
-  09-terms:
-    output: false
-    name: 9) Terms and Signs
-  10-instruments:
-    output: false
-    name: 10) Insturments
+  # 09-terms:
+  #   output: true
+  #   name: 9) Terms and Signs
+  # 10-instruments:
+  #   output: true
+  #   name: 10) Insturments
 #  final-project:
 #    output: true
 #    name: Final Project Notes and Discussion

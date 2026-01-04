@@ -46,15 +46,11 @@ strings
     bowed stirngs 
     and the harp 
 
-
 Woodwind 
     Sounded by blowing into a reed or mouthpiece
 
-
 Brass
     Produce sound by vibrating lips in a mouthpiece.  
-    usually made of metal (brass), 
-
 
 percussion 
     sounded by striking the instrument 
@@ -77,8 +73,6 @@ una corda - press the soft pedal
 mano sinistra (m.s.)
 mano destra (m.d.)  
 
-Spread chord sign 
-
 
 
 # string instruments
@@ -99,7 +93,8 @@ but they all have a confortable range off at least 3 octaves.
 Their lowest notes and their main clefs are given in the table below. 
 
 The double bass sounds an octave lower than written. 
-The lowest note in the table below  is given at sounding (concert) pitch.
+The lowest note in the table below  is given at written pitch. 
+so in fact the DB reaches lower than the cello. 
 
 
 Instrument          lowest note                 clef
@@ -107,7 +102,7 @@ Instrument          lowest note                 clef
 violin              G                       treble
 viola               C                       Alto
 cello               C                       bass
-double bass           E                     Bass
+double bass         E                     Bass
 
 
 ### performance directions and techniques
@@ -169,6 +164,8 @@ slurs - in a single bow
 con sord. 
 senza sord. 
 
+
+
 ## harp
 
 (maybe this is too much) 
@@ -188,8 +185,6 @@ It has a very wide range, reaching almonst as high and as low as a piano.
 Like the piano, the harp uses a grand staff (link)
 
 
- 
-
 
 
 # woodwind instruments 
@@ -202,7 +197,19 @@ oboes and bassoons - double reed
 
 
 
+## ranges
 
+Insturment                      Lowest note
+flute                               C   
+oboe and cor anglais                Bb
+clarinet                            E
+bassoon                             Bb
+
+all at least 2 and a half octaves   
+
+table given at written pitch, so eg the cor anglais can reach a fifth lower than the oboe. 
+
+bassoon mainly bass clef, others treble
 
 
 # brass instruments
@@ -242,8 +249,7 @@ or use a pedal to change the pitch.
 
 [picture]
 
-### tuned-bar percussion instruments
-
+### xylophone-like instruments
 
 - xylophone
 - marimba 
