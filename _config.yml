@@ -46,9 +46,9 @@ collections:
   08-ornaments:
     output: true
     name: 8) Ornaments
-  # 09-terms:
-  #   output: true
-  #   name: 9) Terms and Signs
+  09-terms:
+    output: true
+    name: 9) Performance Directions, Terms and Signs
   # 10-instruments:
   #   output: true
   #   name: 10) Insturments
