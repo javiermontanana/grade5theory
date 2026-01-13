@@ -6,6 +6,27 @@ for each instrument range/ clef
 
 
 
+# outline
+
+
+
+- voices
+- the piano
+- the orchestra 
+- string instruments
+- woodwind
+- brass
+- percussion 
+- summary of ranges 
+
+
+
+
+
+
+
+
+
 # voices
 
 know registers
@@ -34,9 +55,11 @@ String insturments are ones where the sound is produced by making a string vibra
 
 In woodwind and brass insturments, the performer blows air into the instrument 
 and the vibrations of the air inside the insturment produce the sound. 
+
 Woodwind instruments are often made of wood, and brass instruments are often made of metal/brass, but not always!
-The essential difference between the two types is that in brass insturments, 
-the performer's lips vibrate in the pouthpiece. 
+The essential difference between the two groups is that in brass insturments, 
+the performer's lips vibrate in the mouthpiece. 
+
 
 In percussion instruments, the sound is produced by stiking the insturment. 
 
@@ -97,12 +120,12 @@ The lowest note in the table below  is given at written pitch.
 so in fact the DB reaches lower than the cello. 
 
 
-Instrument          lowest note                 clef
+Instrument          lowest note             main clef
 
 violin              G                       treble
 viola               C                       Alto
 cello               C                       bass
-double bass         E                     Bass
+double bass         E                       Bass
 
 
 ### performance directions and techniques
@@ -214,8 +237,9 @@ bassoon mainly bass clef, others treble
 
 # brass instruments
 
-Brass in
 
+
+Brass in
 
 - trumpet
 - horn
